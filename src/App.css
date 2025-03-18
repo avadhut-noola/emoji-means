@@ -37,11 +37,20 @@ h1 span {
   border-radius: 3px;
   box-shadow: 0 2px 0 rgba(0, 0, 0, 0.05), 0 5px 20px rgba(0, 0, 0, 0.1);
   background-color: #fff;
-  transition: all 100ms ease-in-out;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  -webkit-transition: transform 0.3s ease, box-shadow 0.3s ease;
+  -moz-transition: transform 0.3s ease, box-shadow 0.3s ease;
+  -ms-transition: transform 0.3s ease, box-shadow 0.3s ease;
+  -o-transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .dictionary > .term > dt {
   margin-bottom: 1rem;
+}
+
+.dictionary > .term:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
 }
 
 dt {
@@ -83,11 +92,81 @@ dd dl .term {
   margin-bottom: 1rem;
 }
 
+.credit {
+  text-align: center;
+  font-size: 1.2rem;
+  margin-top: -1rem;
+  color: #9B51E0;
+  opacity: 0;
+  animation: fadeIn 1.5s ease-in-out forwards;
+}
+
+.credit a {
+  color: #9B51E0;
+  font-weight: bold;
+  text-decoration: underline;
+  transition: color 0.3s ease-in-out;
+}
+
+.credit a:hover {
+  color: #E91E63; /* on hover different color */
+}
+
+/* Animation Keyframes */
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+
+/* 📌 Responsive Design */
+@media (max-width: 1024px) {
+  .dictionary {
+    gap: 1.5rem;
+  }
+  .dictionary > .term {
+    width: 16rem;
+  }
+}
+
 @media (max-width: 768px) {
   .dictionary {
     gap: 1rem;
   }
   .dictionary > .term {
     width: 90%;
+    padding: 1.5rem;
+  }
+  .emoji {
+    font-size: 300%;
+  }
+  h1 {
+    font-size: 350%;
+  }
+}
+
+@media (max-width: 480px) {
+  .dictionary {
+    gap: 0.8rem;
+  }
+  .dictionary > .term {
+    width: 100%;
+    padding: 1rem;
+  }
+  .emoji {
+    font-size: 250%;
+  }
+  h1 {
+    font-size: 300%;
+  }
+  dd {
+    font-size: 85%;
   }
 }
