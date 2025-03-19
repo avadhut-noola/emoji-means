@@ -1,5 +1,5 @@
 const emojipedia = [
-  { id: 1, emoji: "💪", name: "Tense Biceps", meaning: "You can do that! or I feel strong! Arm with tense biceps. Also used in connection with doing sports, e.g. at the gym." },
+  { id: 1, emoji: "\u{1F4AA}", name: "Tense Biceps", meaning: "You can do that! or I feel strong! Arm with tense biceps. Also used in connection with doing sports, e.g. at the gym." },
   { id: 2, emoji: "🙏", name: "Person With Folded Hands", meaning: "Two hands pressed together. Used for prayer, gratitude, or a high five." },
   { id: 3, emoji: "🤣", name: "Rolling On The Floor, Laughing", meaning: "A smiley face, rolling on the floor, laughing uncontrollably." },
   { id: 4, emoji: "😎", name: "Smiling Face With Sunglasses", meaning: "Cool, relaxed, or confident attitude." },
