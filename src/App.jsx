@@ -1,5 +1,6 @@
 import './App.css'
 import Entry from './Components/Entry'
+import EmojiSearch from './Components/EmojiSearch';
 import emojipedia from './Components/emojipedia'
 
 function emojiCreator(emojiTerm) {
@@ -18,6 +19,7 @@ function App() {
       <p class="credit">
         Created by <a href="https://www.linkedin.com/in/avadhut-noola/" target="_blank">Avadhut Noola</a> ❤️
       </p>
+      <EmojiSearch />
       <dl className="dictionary">
         {emojipedia.map(emojiCreator)}
       </dl>
