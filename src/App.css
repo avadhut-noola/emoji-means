@@ -112,6 +112,45 @@ dd dl .term {
   color: #E91E63; /* on hover different color */
 }
 
+.search-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px auto;
+}
+
+.section-title {
+  text-align: center;
+  font-size: 1.5rem;
+  margin-top: 2rem;
+  color: #9B51E0; /* Electric Purple */
+}
+
+
+.search-bar {
+  width: 100%;
+  max-width: 400px;
+  padding: 12px;
+  font-size: 1rem;
+  border: 2px solid #5C6BC0;
+  border-radius: 25px;
+  outline: none;
+  text-align: center;
+  transition: all 0.3s ease-in-out;
+}
+
+.search-bar:focus {
+  border-color: #00AEEF; /* Sky Blue on focus */
+  box-shadow: 0 0 10px rgba(155, 81, 224, 0.5);
+}
+
+.search-bar::placeholder {
+  color: #aaa;
+  font-style: italic;
+}
+
+
+
 /* Animation Keyframes */
 @keyframes fadeIn {
   0% {
