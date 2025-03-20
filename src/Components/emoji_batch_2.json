@@ -1,0 +1,705 @@
+{
+  "emojis": [
+    {
+      "id": 101,
+      "emoji": "\\u{1F47A}",
+      "name": "Japanese Goblin",
+      "category": "Smileys",
+      "meaning": "A red face with an elongated nose, representing Japanese folklore creatures known as tengu, symbolizing mischief and supernatural trickery."
+    },
+    {
+      "id": 102,
+      "emoji": "\\u{1F47B}",
+      "name": "Ghost",
+      "category": "Smileys",
+      "meaning": "A cartoonish white ghost with a wavy bottom and open mouth, representing the supernatural, haunting, or playful spookiness."
+    },
+    {
+      "id": 103,
+      "emoji": "\\u{1F47D}",
+      "name": "Alien",
+      "category": "Smileys",
+      "meaning": "A green extraterrestrial with large black eyes, representing outer space beings, feeling out of place, or something unfamiliar and strange."
+    },
+    {
+      "id": 104,
+      "emoji": "\\u{1F47E}",
+      "name": "Alien Monster",
+      "category": "Smileys",
+      "meaning": "A pixelated alien character from vintage arcade games, representing retro gaming culture, digital invaders, or nostalgic technology."
+    },
+    {
+      "id": 105,
+      "emoji": "\\u{1F916}",
+      "name": "Robot",
+      "category": "Smileys",
+      "meaning": "A metallic robot face with antenna, representing artificial intelligence, automation, or feeling mechanical and programmed in responses."
+    },
+    {
+      "id": 106,
+      "emoji": "\\u{1F63A}",
+      "name": "Grinning Cat",
+      "category": "Animals",
+      "meaning": "A cat face with a wide open-mouthed smile, representing feline happiness, mischievous satisfaction, or playful animal energy."
+    },
+    {
+      "id": 107,
+      "emoji": "\\u{1F638}",
+      "name": "Grinning Cat with Smiling Eyes",
+      "category": "Animals",
+      "meaning": "A cat face with squinted happy eyes and big smile, showing intense feline delight or playful excitement about something."
+    },
+    {
+      "id": 108,
+      "emoji": "\\u{1F639}",
+      "name": "Cat with Tears of Joy",
+      "category": "Animals",
+      "meaning": "A cat face laughing so hard it's crying, representing hilarious feline humor or finding something extremely funny with animal spirit."
+    },
+    {
+      "id": 109,
+      "emoji": "\\u{1F63B}",
+      "name": "Smiling Cat with Heart-Eyes",
+      "category": "Animals",
+      "meaning": "A cat face with hearts for eyes, showing feline adoration, affection, or love for something irresistible like treats or toys."
+    },
+    {
+      "id": 110,
+      "emoji": "\\u{1F63C}",
+      "name": "Cat with Wry Smile",
+      "category": "Animals",
+      "meaning": "A cat with a mischievous smirk, representing sly feline plotting, smugness, or satisfaction at getting away with something sneaky."
+    },
+    {
+      "id": 111,
+      "emoji": "\\u{1F63D}",
+      "name": "Kissing Cat",
+      "category": "Animals",
+      "meaning": "A cat face with puckered lips and closed eyes, showing feline affection, appreciation, or sending kisses to someone they care about."
+    },
+    {
+      "id": 112,
+      "emoji": "\\u{1F640}",
+      "name": "Weary Cat",
+      "category": "Animals",
+      "meaning": "A cat face with scrunched worried expression, representing feline distress, overwhelming situations, or being at one's limit."
+    },
+    {
+      "id": 113,
+      "emoji": "\\u{1F63F}",
+      "name": "Crying Cat",
+      "category": "Animals",
+      "meaning": "A sad cat face with a tear, showing feline sadness, disappointment, or emotional sensitivity to rejection or hurt feelings."
+    },
+    {
+      "id": 114,
+      "emoji": "\\u{1F63E}",
+      "name": "Pouting Cat",
+      "category": "Animals",
+      "meaning": "An angry cat face with downturned mouth, representing feline fury, aggressive indignation, or territorial defensiveness."
+    },
+    {
+      "id": 115,
+      "emoji": "\\u{1F648}",
+      "name": "See-No-Evil Monkey",
+      "category": "Animals",
+      "meaning": "A monkey covering its eyes, representing the principle of seeing no evil, denial, or refusing to witness something uncomfortable or inappropriate."
+    },
+    {
+      "id": 116,
+      "emoji": "\\u{1F649}",
+      "name": "Hear-No-Evil Monkey",
+      "category": "Animals",
+      "meaning": "A monkey covering its ears, representing the principle of hearing no evil, blocking out negativity, or refusing to listen to gossip or bad news."
+    },
+    {
+      "id": 117,
+      "emoji": "\\u{1F64A}",
+      "name": "Speak-No-Evil Monkey",
+      "category": "Animals",
+      "meaning": "A monkey covering its mouth, representing the principle of speaking no evil, keeping secrets, or restraining oneself from saying something inappropriate."
+    },
+    {
+      "id": 118,
+      "emoji": "\\u{1F435}",
+      "name": "Monkey Face",
+      "category": "Animals",
+      "meaning": "A friendly monkey face, representing playfulness, curiosity, or mischievous primate behavior in a lighthearted context."
+    },
+    {
+      "id": 119,
+      "emoji": "\\u{1F412}",
+      "name": "Monkey",
+      "category": "Animals",
+      "meaning": "A full-bodied monkey, representing agility, intelligence, or the symbolic connection between humans and their evolutionary primate relatives."
+    },
+    {
+      "id": 120,
+      "emoji": "\\u{1F98D}",
+      "name": "Gorilla",
+      "category": "Animals",
+      "meaning": "A large gorilla face, representing great strength, dominance, or powerful primate presence in wildlife conservation contexts."
+    },
+    {
+      "id": 121,
+      "emoji": "\\u{1F9A7}",
+      "name": "Orangutan",
+      "category": "Animals",
+      "meaning": "An orangutan face with distinctive orange fur, symbolizing endangered rainforest species, great intelligence, or contemplative gentleness."
+    },
+    {
+      "id": 122,
+      "emoji": "\\u{1F436}",
+      "name": "Dog Face",
+      "category": "Animals",
+      "meaning": "A friendly dog face with floppy ears, representing loyal companionship, playful energy, or man's best friend in a general sense."
+    },
+    {
+      "id": 123,
+      "emoji": "\\u{1F415}",
+      "name": "Dog",
+      "category": "Animals",
+      "meaning": "A full-bodied dog in profile, representing canine pets, faithful companionship, or the diverse world of domestic dog breeds."
+    },
+    {
+      "id": 124,
+      "emoji": "\\u{1F9AE}",
+      "name": "Guide Dog",
+      "category": "Animals",
+      "meaning": "A service dog with harness, representing assistance animals, accessibility support, or trained helpers for people with visual impairments."
+    },
+    {
+      "id": 125,
+      "emoji": "\\u{1F429}",
+      "name": "Poodle",
+      "category": "Animals",
+      "meaning": "A poodle dog with distinctive curly fur, representing fancy dog breeds, sophistication, or groomed elegance in the canine world."
+    },
+    {
+      "id": 126,
+      "emoji": "\\u{1F43A}",
+      "name": "Wolf",
+      "category": "Animals",
+      "meaning": "A wolf face with pointed ears, representing wilderness, pack mentality, or the wild ancestors of domestic dogs in nature."
+    },
+    {
+      "id": 127,
+      "emoji": "\\u{1F98A}",
+      "name": "Fox",
+      "category": "Animals",
+      "meaning": "A fox face with distinctive orange coloring, representing cleverness, cunning, or the sly intelligence associated with foxes in folklore."
+    },
+    {
+      "id": 128,
+      "emoji": "\\u{1F99D}",
+      "name": "Raccoon",
+      "category": "Animals",
+      "meaning": "A raccoon face with masked markings, representing nocturnal cleverness, adaptability to urban environments, or playful mischief."
+    },
+    {
+      "id": 129,
+      "emoji": "\\u{1F431}",
+      "name": "Cat Face",
+      "category": "Animals",
+      "meaning": "A friendly cat face with whiskers, representing feline companionship, independence, or the beloved house pets known for their mysterious nature."
+    },
+    {
+      "id": 130,
+      "emoji": "\\u{1F408}",
+      "name": "Cat",
+      "category": "Animals",
+      "meaning": "A full-bodied cat in profile, representing domestic felines, graceful movement, or the quiet companionship of household cats."
+    },
+    {
+      "id": 131,
+      "emoji": "\\u{1F981}",
+      "name": "Lion",
+      "category": "Animals",
+      "meaning": "A lion face with mane, representing courage, leadership, or the majestic king of the jungle in African wildlife."
+    },
+    {
+      "id": 132,
+      "emoji": "\\u{1F42F}",
+      "name": "Tiger Face",
+      "category": "Animals",
+      "meaning": "A tiger face with distinctive stripes, representing fierceness, power, or the endangered big cats of Asian jungles."
+    },
+    {
+      "id": 133,
+      "emoji": "\\u{1F405}",
+      "name": "Tiger",
+      "category": "Animals",
+      "meaning": "A full-bodied tiger in profile, representing strength, stealth, or the majestic striped predators of Asian forests facing conservation challenges."
+    },
+    {
+      "id": 134,
+      "emoji": "\\u{1F406}",
+      "name": "Leopard",
+      "category": "Animals",
+      "meaning": "A leopard with spotted coat, representing stealth, agility, or the elusive big cats known for their climbing abilities and adaptability."
+    },
+    {
+      "id": 135,
+      "emoji": "\\u{1F434}",
+      "name": "Horse Face",
+      "category": "Animals",
+      "meaning": "A horse face with mane, representing equine nobility, racing spirit, or the close bond between horses and humans throughout history."
+    },
+    {
+      "id": 136,
+      "emoji": "\\u{1F40E}",
+      "name": "Horse",
+      "category": "Animals",
+      "meaning": "A full-bodied horse in profile, representing strength, freedom, or the majestic animals that have partnered with humans for transportation and work."
+    },
+    {
+      "id": 137,
+      "emoji": "\\u{1F984}",
+      "name": "Unicorn",
+      "category": "Animals",
+      "meaning": "A mythical white horse with rainbow horn, representing magic, fantasy, or something rare and special that seems too good to be true."
+    },
+    {
+      "id": 138,
+      "emoji": "\\u{1F993}",
+      "name": "Zebra",
+      "category": "Animals",
+      "meaning": "A zebra with distinctive black and white stripes, representing uniqueness, African wildlife, or the striking pattern that makes each zebra individual."
+    },
+    {
+      "id": 139,
+      "emoji": "\\u{1F98C}",
+      "name": "Deer",
+      "category": "Animals",
+      "meaning": "A deer with antlers, representing grace, gentleness, or the forest wildlife that symbolizes peace and serenity in natural settings."
+    },
+    {
+      "id": 140,
+      "emoji": "\\u{1F9AC}",
+      "name": "Bison",
+      "category": "Animals",
+      "meaning": "A bison with shaggy coat and horns, representing North American wildlife, strength, or the powerful prairie animals central to indigenous cultures."
+    },
+    {
+      "id": 141,
+      "emoji": "\\u{1F42E}",
+      "name": "Cow Face",
+      "category": "Animals",
+      "meaning": "A cow face with horns, representing farm animals, dairy production, or the gentle bovine creatures important to agriculture worldwide."
+    },
+    {
+      "id": 142,
+      "emoji": "\\u{1F402}",
+      "name": "Ox",
+      "category": "Animals",
+      "meaning": "A strong ox with horns, representing hard work, determination, or the powerful farm animals used historically for plowing and heavy labor."
+    },
+    {
+      "id": 143,
+      "emoji": "\\u{1F403}",
+      "name": "Water Buffalo",
+      "category": "Animals",
+      "meaning": "A water buffalo with large horns, representing Asian agriculture, mud-loving bovines, or the important work animals in rice farming communities."
+    },
+    {
+      "id": 144,
+      "emoji": "\\u{1F404}",
+      "name": "Cow",
+      "category": "Animals",
+      "meaning": "A full-bodied cow in profile, representing dairy farming, pastoral life, or the important livestock that provides milk and beef worldwide."
+    },
+    {
+      "id": 145,
+      "emoji": "\\u{1F437}",
+      "name": "Pig Face",
+      "category": "Animals",
+      "meaning": "A pig face with snout, representing farm animals, playful intelligence, or the sometimes underestimated cleverness of porcine creatures."
+    },
+    {
+      "id": 146,
+      "emoji": "\\u{1F416}",
+      "name": "Pig",
+      "category": "Animals",
+      "meaning": "A full-bodied pig in profile, representing farm livestock, bacon source, or the domesticated animals important to many food cultures."
+    },
+    {
+      "id": 147,
+      "emoji": "\\u{1F417}",
+      "name": "Boar",
+      "category": "Animals",
+      "meaning": "A wild boar with tusks, representing wilderness, untamed nature, or the wild ancestors of domestic pigs that roam forests worldwide."
+    },
+    {
+      "id": 148,
+      "emoji": "\\u{1F43D}",
+      "name": "Pig Nose",
+      "category": "Animals",
+      "meaning": "A close-up of a pig's snout, representing smell, curiosity, or the distinctive feature used by pigs to root through soil for food."
+    },
+    {
+      "id": 149,
+      "emoji": "\\u{1F40F}",
+      "name": "Ram",
+      "category": "Animals",
+      "meaning": "A ram with curved horns, representing determination, stubbornness, or the male sheep known for their impressive headgear and fighting spirit."
+    },
+    {
+      "id": 150,
+      "emoji": "\\u{1F411}",
+      "name": "Sheep",
+      "category": "Animals",
+      "meaning": "A white sheep with wool coat, representing gentleness, herd mentality, or the important livestock that provides wool and meat globally."
+    },
+    {
+      "id": 151,
+      "emoji": "\\u{1F410}",
+      "name": "Goat",
+      "category": "Animals",
+      "meaning": "A goat with horns and beard, representing climbing ability, stubbornness, or the versatile farm animals known for their milk and cheese production."
+    },
+    {
+      "id": 152,
+      "emoji": "\\u{1F42A}",
+      "name": "Camel",
+      "category": "Animals",
+      "meaning": "A dromedary camel with one hump, representing desert travel, endurance, or the ships of the desert known for water conservation abilities."
+    },
+    {
+      "id": 153,
+      "emoji": "\\u{1F42B}",
+      "name": "Two-Hump Camel",
+      "category": "Animals",
+      "meaning": "A Bactrian camel with two humps, representing Central Asian steppes, cold desert adaptation, or the distinctive silhouette of these hardy animals."
+    },
+    {
+      "id": 154,
+      "emoji": "\\u{1F999}",
+      "name": "Llama",
+      "category": "Animals",
+      "meaning": "A llama with long neck, representing Andean culture, wool production, or the pack animals important to South American mountain communities."
+    },
+    {
+      "id": 155,
+      "emoji": "\\u{1F992}",
+      "name": "Giraffe",
+      "category": "Animals",
+      "meaning": "A giraffe with long neck and spotted pattern, representing height, uniqueness, or the tallest land animals with their distinctive appearance."
+    },
+    {
+      "id": 156,
+      "emoji": "\\u{1F418}",
+      "name": "Elephant",
+      "category": "Animals",
+      "meaning": "An elephant with trunk and tusks, representing memory, wisdom, or the largest land mammals known for their intelligence and family bonds."
+    },
+    {
+      "id": 157,
+      "emoji": "\\u{1F9A3}",
+      "name": "Mammoth",
+      "category": "Animals",
+      "meaning": "A woolly mammoth with long curved tusks, representing prehistoric wildlife, extinction, or the ice age relatives of modern elephants."
+    },
+    {
+      "id": 158,
+      "emoji": "\\u{1F98F}",
+      "name": "Rhinoceros",
+      "category": "Animals",
+      "meaning": "A rhinoceros with horn, representing strength, endangered species, or the powerful thick-skinned animals facing poaching threats."
+    },
+    {
+      "id": 159,
+      "emoji": "\\u{1F99B}",
+      "name": "Hippopotamus",
+      "category": "Animals",
+      "meaning": "A hippopotamus with wide mouth, representing African river life, surprising power, or the deceptively dangerous animals despite their round appearance."
+    },
+    {
+      "id": 160,
+      "emoji": "\\u{1F42D}",
+      "name": "Mouse Face",
+      "category": "Animals",
+      "meaning": "A mouse face with rounded ears, representing small rodents, meekness, or the tiny creatures with oversized personality in stories and cartoons."
+    },
+    {
+      "id": 161,
+      "emoji": "\\u{1F401}",
+      "name": "Mouse",
+      "category": "Animals",
+      "meaning": "A full-bodied mouse in profile, representing small mammals, laboratory science, or the common rodents that have adapted to living alongside humans."
+    },
+    {
+      "id": 162,
+      "emoji": "\\u{1F400}",
+      "name": "Rat",
+      "category": "Animals",
+      "meaning": "A rat with long tail, representing survival, adaptability, or the intelligent rodents that thrive in urban environments despite their reputation."
+    },
+    {
+      "id": 163,
+      "emoji": "\\u{1F439}",
+      "name": "Hamster",
+      "category": "Animals",
+      "meaning": "A hamster face with chubby cheeks, representing pet rodents, food hoarding, or the popular small pets known for stuffing their cheek pouches."
+    },
+    {
+      "id": 164,
+      "emoji": "\\u{1F430}",
+      "name": "Rabbit Face",
+      "category": "Animals",
+      "meaning": "A rabbit face with long ears, representing gentleness, fertility, or the beloved pets and wild animals known for their hopping movement."
+    },
+    {
+      "id": 165,
+      "emoji": "\\u{1F407}",
+      "name": "Rabbit",
+      "category": "Animals",
+      "meaning": "A full-bodied rabbit in profile, representing springtime, quickness, or the fluffy mammals that symbolize abundance and reproduction."
+    },
+    {
+      "id": 166,
+      "emoji": "\\u{1F43F}",
+      "name": "Chipmunk",
+      "category": "Animals",
+      "meaning": "A chipmunk with striped back, representing forest creatures, food storing, or the small rodents known for their cheek pouches and tree climbing."
+    },
+    {
+      "id": 167,
+      "emoji": "\\u{1F9AB}",
+      "name": "Beaver",
+      "category": "Animals",
+      "meaning": "A beaver with flat tail, representing industriousness, dam building, or the aquatic rodents known for their engineering skills and water adaptations."
+    },
+    {
+      "id": 168,
+      "emoji": "\\u{1F994}",
+      "name": "Hedgehog",
+      "category": "Animals",
+      "meaning": "A hedgehog with spines, representing self-protection, cuteness, or the small mammals that roll into a ball when threatened by predators."
+    },
+    {
+      "id": 169,
+      "emoji": "\\u{1F987}",
+      "name": "Bat",
+      "category": "Animals",
+      "meaning": "A bat with outstretched wings, representing night creatures, echolocation, or the only flying mammals crucial for pollination and insect control."
+    },
+    {
+      "id": 170,
+      "emoji": "\\u{1F43B}",
+      "name": "Bear",
+      "category": "Animals",
+      "meaning": "A bear face, representing wilderness, strength, or the powerful omnivores that range from black bears to grizzlies across forest habitats."
+    },
+    {
+      "id": 171,
+      "emoji": "\\u{1F428}",
+      "name": "Koala",
+      "category": "Animals",
+      "meaning": "A koala face with round ears, representing Australian wildlife, eucalyptus eaters, or the marsupials that sleep most of the day in gum trees."
+    },
+    {
+      "id": 172,
+      "emoji": "\\u{1F43C}",
+      "name": "Panda",
+      "category": "Animals",
+      "meaning": "A panda face with black and white markings, representing conservation success, bamboo diets, or the beloved bears that symbolize wildlife protection."
+    },
+    {
+      "id": 173,
+      "emoji": "\\u{1F9A5}",
+      "name": "Sloth",
+      "category": "Animals",
+      "meaning": "A sloth hanging from a branch, representing slowness, relaxation, or the leisurely tree-dwelling mammals known for their unhurried lifestyle."
+    },
+    {
+      "id": 174,
+      "emoji": "\\u{1F9A6}",
+      "name": "Otter",
+      "category": "Animals",
+      "meaning": "An otter with sleek body, representing playfulness, aquatic life, or the charming mammals known for floating on their backs and using tools."
+    },
+    {
+      "id": 175,
+      "emoji": "\\u{1F9A8}",
+      "name": "Skunk",
+      "category": "Animals",
+      "meaning": "A skunk with striped back, representing defense mechanisms, distinctive odor, or the black and white mammals that spray when threatened."
+    },
+    {
+      "id": 176,
+      "emoji": "\\u{1F998}",
+      "name": "Kangaroo",
+      "category": "Animals",
+      "meaning": "A kangaroo with joey in pouch, representing Australia, hopping movement, or the marsupials known for carrying their young in pouches."
+    },
+    {
+      "id": 177,
+      "emoji": "\\u{1F9A1}",
+      "name": "Badger",
+      "category": "Animals",
+      "meaning": "A badger with striped face, representing determination, burrowing, or the strong-willed mammals known for their powerful digging abilities."
+    },
+    {
+      "id": 178,
+      "emoji": "\\u{1F43E}",
+      "name": "Paw Prints",
+      "category": "Animals",
+      "meaning": "Animal footprints, representing tracking, pet presence, or the marks left behind by our furry companions as they move through the world."
+    },
+    {
+      "id": 179,
+      "emoji": "\\u{1F983}",
+      "name": "Turkey",
+      "category": "Animals",
+      "meaning": "A turkey with fanned tail feathers, representing Thanksgiving, gobbling calls, or the large birds central to holiday meals in North America."
+    },
+    {
+      "id": 180,
+      "emoji": "\\u{1F414}",
+      "name": "Chicken",
+      "category": "Animals",
+      "meaning": "A chicken in profile, representing poultry farming, egg production, or the domesticated birds that provide food worldwide."
+    },
+    {
+      "id": 181,
+      "emoji": "\\u{1F413}",
+      "name": "Rooster",
+      "category": "Animals",
+      "meaning": "A rooster with colorful plumage, representing morning wake-up calls, farm life, or the male chicken known for crowing at dawn."
+    },
+    {
+      "id": 182,
+      "emoji": "\\u{1F423}",
+      "name": "Hatching Chick",
+      "category": "Animals",
+      "meaning": "A baby chick breaking out of its shell, representing new beginnings, birth, or the emergence of something fresh and untested."
+    },
+    {
+      "id": 183,
+      "emoji": "\\u{1F424}",
+      "name": "Baby Chick",
+      "category": "Animals",
+      "meaning": "A fluffy yellow chick, representing springtime, cuteness, or the early stages of growth and development with innocent vulnerability."
+    },
+    {
+      "id": 184,
+      "emoji": "\\u{1F425}",
+      "name": "Front-Facing Baby Chick",
+      "category": "Animals",
+      "meaning": "A baby chick facing forward, representing direct engagement, curious youth, or the forward-looking aspect of new life and beginnings."
+    },
+    {
+      "id": 185,
+      "emoji": "\\u{1F426}",
+      "name": "Bird",
+      "category": "Animals",
+      "meaning": "A small bird in profile, representing freedom, song, or the diverse world of feathered creatures that inhabit every corner of the earth."
+    },
+    {
+      "id": 186,
+      "emoji": "\\u{1F427}",
+      "name": "Penguin",
+      "category": "Animals",
+      "meaning": "A penguin in tuxedo-like plumage, representing Antarctica, flightless birds, or the charming waddlers that thrive in extreme cold."
+    },
+    {
+      "id": 187,
+      "emoji": "\\u{1F54A}",
+      "name": "Dove",
+      "category": "Animals",
+      "meaning": "A white dove with olive branch, representing peace, hope, or the universal symbol of harmony and conflict resolution."
+    },
+    {
+      "id": 188,
+      "emoji": "\\u{1F985}",
+      "name": "Eagle",
+      "category": "Animals",
+      "meaning": "An eagle with sharp beak, representing freedom, power, or the majestic birds of prey that symbolize strength and national pride."
+    },
+    {
+      "id": 189,
+      "emoji": "\\u{1F986}",
+      "name": "Duck",
+      "category": "Animals",
+      "meaning": "A duck in profile, representing water birds, quacking, or the waterfowl known for their distinctive calls and swimming abilities."
+    },
+    {
+      "id": 190,
+      "emoji": "\\u{1F9A2}",
+      "name": "Swan",
+      "category": "Animals",
+      "meaning": "A white swan with long neck, representing grace, elegance, or the beautiful water birds known for their lifelong mating pairs."
+    },
+    {
+      "id": 191,
+      "emoji": "\\u{1F989}",
+      "name": "Owl",
+      "category": "Animals",
+      "meaning": "An owl with wide eyes, representing wisdom, night vision, or the nocturnal birds associated with intelligence and mystery."
+    },
+    {
+      "id": 192,
+      "emoji": "\\u{1F9A4}",
+      "name": "Dodo",
+      "category": "Animals",
+      "meaning": "A dodo bird, representing extinction, lost species, or the flightless birds that disappeared due to human activity as a cautionary tale."
+    },
+    {
+      "id": 193,
+      "emoji": "\\u{1F9A9}",
+      "name": "Flamingo",
+      "category": "Animals",
+      "meaning": "A pink flamingo with long neck, representing tropical settings, distinctive color, or the wading birds known for standing on one leg."
+    },
+    {
+      "id": 194,
+      "emoji": "\\u{1F99A}",
+      "name": "Peacock",
+      "category": "Animals",
+      "meaning": "A peacock with colorful fanned tail, representing pride, beauty, or the spectacular display of iridescent feathers during courtship."
+    },
+    {
+      "id": 195,
+      "emoji": "\\u{1F99C}",
+      "name": "Parrot",
+      "category": "Animals",
+      "meaning": "A colorful parrot, representing tropical birds, mimicry, or the intelligent avians known for their ability to repeat human speech."
+    },
+    {
+      "id": 196,
+      "emoji": "\\u{1F438}",
+      "name": "Frog",
+      "category": "Animals",
+      "meaning": "A green frog face, representing amphibians, croaking, or the pond-dwelling creatures that transform from tadpoles in metamorphosis."
+    },
+    {
+      "id": 197,
+      "emoji": "\\u{1F40A}",
+      "name": "Crocodile",
+      "category": "Animals",
+      "meaning": "A crocodile with scales and teeth, representing ambush predators, ancient reptiles, or the powerful water hunters with armored skin."
+    },
+    {
+      "id": 198,
+      "emoji": "\\u{1F422}",
+      "name": "Turtle",
+      "category": "Animals",
+      "meaning": "A turtle with shell, representing longevity, patience, or the steady reptiles known for carrying their homes on their backs."
+    },
+    {
+      "id": 199,
+      "emoji": "\\u{1F98E}",
+      "name": "Lizard",
+      "category": "Animals",
+      "meaning": "A lizard with long tail, representing reptiles, sun-basking, or the cold-blooded creatures known for their ability to regrow lost tails."
+    },
+    {
+      "id": 200,
+      "emoji": "\\u{1F40D}",
+      "name": "Snake",
+      "category": "Animals",
+      "meaning": "A coiled snake, representing cunning, transformation, or the legless reptiles that have inspired both fear and fascination throughout human history."
+    }
+  ]
+}
+

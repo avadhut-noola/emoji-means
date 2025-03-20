@@ -1,0 +1,704 @@
+{
+  "emojis": [
+    {
+      "id": 201,
+      "emoji": "🚀",
+      "name": "Rocket",
+      "category": "Travel & Places",
+      "meaning": "A spacecraft launching into the sky, representing exploration, ambition, or a successful launch of a project."
+    },
+    {
+      "id": 202,
+      "emoji": "🛸",
+      "name": "Flying Saucer",
+      "category": "Travel & Places",
+      "meaning": "An alien spacecraft hovering in the air, symbolizing extraterrestrial life, science fiction, or something otherworldly and mysterious."
+    },
+    {
+      "id": 203,
+      "emoji": "🛺",
+      "name": "Auto Rickshaw",
+      "category": "Travel & Places",
+      "meaning": "A three-wheeled motorized vehicle used as taxi in many Asian countries, representing affordable transportation or travel in urban areas."
+    },
+    {
+      "id": 204,
+      "emoji": "🚁",
+      "name": "Helicopter",
+      "category": "Travel & Places",
+      "meaning": "An aircraft with rotating blades that can hover and fly in any direction, representing aerial transportation, rescue operations, or luxury travel."
+    },
+    {
+      "id": 205,
+      "emoji": "🚢",
+      "name": "Ship",
+      "category": "Travel & Places",
+      "meaning": "A large vessel designed for navigating on water, symbolizing oceanic travel, cruises, or maritime transportation."
+    },
+    {
+      "id": 206,
+      "emoji": "🚗",
+      "name": "Automobile",
+      "category": "Travel & Places",
+      "meaning": "A four-wheeled personal vehicle, representing everyday transportation, road trips, or independence."
+    },
+    {
+      "id": 207,
+      "emoji": "🚕",
+      "name": "Taxi",
+      "category": "Travel & Places",
+      "meaning": "A yellow car used for hire, symbolizing urban transportation, convenience, or getting somewhere quickly."
+    },
+    {
+      "id": 208,
+      "emoji": "🚌",
+      "name": "Bus",
+      "category": "Travel & Places",
+      "meaning": "A large vehicle designed to carry multiple passengers, representing public transportation, commuting, or group travel."
+    },
+    {
+      "id": 209,
+      "emoji": "🚲",
+      "name": "Bicycle",
+      "category": "Travel & Places",
+      "meaning": "A two-wheeled human-powered vehicle, symbolizing eco-friendly transportation, exercise, or outdoor recreation."
+    },
+    {
+      "id": 210,
+      "emoji": "🛴",
+      "name": "Kick Scooter",
+      "category": "Travel & Places",
+      "meaning": "A standing vehicle with two wheels and a handlebar, representing urban mobility, micro-transportation, or recreational riding."
+    },
+    {
+      "id": 211,
+      "emoji": "🏠",
+      "name": "House",
+      "category": "Travel & Places",
+      "meaning": "A single-family dwelling, symbolizing home, shelter, or domestic life."
+    },
+    {
+      "id": 212,
+      "emoji": "🏘️",
+      "name": "Houses",
+      "category": "Travel & Places",
+      "meaning": "Multiple residential buildings together, representing a neighborhood, community, or suburban living."
+    },
+    {
+      "id": 213,
+      "emoji": "🏢",
+      "name": "Office Building",
+      "category": "Travel & Places",
+      "meaning": "A tall commercial structure, symbolizing business, work environments, or corporate settings."
+    },
+    {
+      "id": 214,
+      "emoji": "🏫",
+      "name": "School",
+      "category": "Travel & Places",
+      "meaning": "An educational institution building, representing learning, academic environments, or childhood education."
+    },
+    {
+      "id": 215,
+      "emoji": "🏰",
+      "name": "Castle",
+      "category": "Travel & Places",
+      "meaning": "A large fortified structure with towers and battlements, symbolizing royalty, history, or fairy tales."
+    },
+    {
+      "id": 216,
+      "emoji": "🏯",
+      "name": "Japanese Castle",
+      "category": "Travel & Places",
+      "meaning": "A traditional Japanese fortress with distinctive architecture, representing Japanese culture, history, or imperial heritage."
+    },
+    {
+      "id": 217,
+      "emoji": "🏟️",
+      "name": "Stadium",
+      "category": "Travel & Places",
+      "meaning": "A large open-air venue for sports events, representing athletics, competitions, or large gatherings."
+    },
+    {
+      "id": 218,
+      "emoji": "🌉",
+      "name": "Bridge at Night",
+      "category": "Travel & Places",
+      "meaning": "An illuminated bridge spanning water after dark, symbolizing connections, urban scenery, or romantic cityscapes."
+    },
+    {
+      "id": 219,
+      "emoji": "⛰️",
+      "name": "Mountain",
+      "category": "Travel & Places",
+      "meaning": "A large natural elevation of the earth's surface, representing nature, challenges to overcome, or outdoor adventures."
+    },
+    {
+      "id": 220,
+      "emoji": "🏝️",
+      "name": "Desert Island",
+      "category": "Travel & Places",
+      "meaning": "A small tropical island with palm trees, symbolizing isolation, vacation destinations, or escape from civilization."
+    },
+    {
+      "id": 221,
+      "emoji": "🏕️",
+      "name": "Camping",
+      "category": "Travel & Places",
+      "meaning": "A tent pitched in a natural setting, representing outdoor living, adventure, or temporary accommodation in nature."
+    },
+    {
+      "id": 222,
+      "emoji": "🌋",
+      "name": "Volcano",
+      "category": "Travel & Places",
+      "meaning": "A mountain with a crater erupting lava, symbolizing explosive power, geological forces, or unpredictable danger."
+    },
+    {
+      "id": 223,
+      "emoji": "🏖️",
+      "name": "Beach with Umbrella",
+      "category": "Travel & Places",
+      "meaning": "A sandy shore with a parasol, representing vacation, relaxation by the sea, or summer leisure."
+    },
+    {
+      "id": 224,
+      "emoji": "🌃",
+      "name": "Night with Stars",
+      "category": "Travel & Places",
+      "meaning": "A dark sky filled with stars, symbolizing evening, cosmic wonder, or peaceful nights."
+    },
+    {
+      "id": 225,
+      "emoji": "🌆",
+      "name": "Cityscape at Dusk",
+      "category": "Travel & Places",
+      "meaning": "An urban skyline during sunset, representing transition times, urban living, or the beauty of city lights emerging."
+    },
+    {
+      "id": 226,
+      "emoji": "🏙️",
+      "name": "Cityscape",
+      "category": "Travel & Places",
+      "meaning": "A dense urban area with tall buildings, representing metropolitan life, urban development, or city centers."
+    },
+    {
+      "id": 227,
+      "emoji": "🌄",
+      "name": "Sunrise Over Mountains",
+      "category": "Travel & Places",
+      "meaning": "The sun rising behind mountains, symbolizing new beginnings, fresh starts, or early morning beauty."
+    },
+    {
+      "id": 228,
+      "emoji": "🌅",
+      "name": "Sunrise",
+      "category": "Travel & Places",
+      "meaning": "The sun appearing on the horizon, representing dawn, awakening, or the start of a new day."
+    },
+    {
+      "id": 229,
+      "emoji": "🌇",
+      "name": "Sunset",
+      "category": "Travel & Places",
+      "meaning": "The sun descending below the horizon, symbolizing completion, endings, or the beauty of closing daylight."
+    },
+    {
+      "id": 230,
+      "emoji": "🌁",
+      "name": "Foggy",
+      "category": "Travel & Places",
+      "meaning": "A landscape obscured by mist, representing uncertainty, mystery, or atmospheric conditions limiting visibility."
+    },
+    {
+      "id": 231,
+      "emoji": "🌌",
+      "name": "Milky Way",
+      "category": "Travel & Places",
+      "meaning": "A vision of our galaxy with countless stars, symbolizing the cosmos, infinite possibilities, or astronomical wonder."
+    },
+    {
+      "id": 232,
+      "emoji": "🎡",
+      "name": "Ferris Wheel",
+      "category": "Travel & Places",
+      "meaning": "A large rotating wheel with passenger cars, representing amusement parks, carnival fun, or scenic elevated views."
+    },
+    {
+      "id": 233,
+      "emoji": "🎢",
+      "name": "Roller Coaster",
+      "category": "Travel & Places",
+      "meaning": "A thrill ride with steep drops and turns, symbolizing excitement, emotional ups and downs, or adrenaline rushes."
+    },
+    {
+      "id": 234,
+      "emoji": "🎪",
+      "name": "Circus Tent",
+      "category": "Travel & Places",
+      "meaning": "A large striped tent for performances, representing entertainment, spectacle, or traveling shows."
+    },
+    {
+      "id": 235,
+      "emoji": "🗽",
+      "name": "Statue of Liberty",
+      "category": "Travel & Places",
+      "meaning": "The iconic American monument in New York Harbor, symbolizing freedom, democracy, or the United States."
+    },
+    {
+      "id": 236,
+      "emoji": "🗼",
+      "name": "Tokyo Tower",
+      "category": "Travel & Places",
+      "meaning": "A red and white lattice tower in Japan, representing Tokyo, Japanese landmarks, or modern architecture."
+    },
+    {
+      "id": 237,
+      "emoji": "🚦",
+      "name": "Vertical Traffic Light",
+      "category": "Travel & Places",
+      "meaning": "A signal with red, yellow, and green lights stacked vertically, symbolizing traffic control, stopping and going, or ordered progression."
+    },
+    {
+      "id": 238,
+      "emoji": "⛵",
+      "name": "Sailboat",
+      "category": "Travel & Places",
+      "meaning": "A boat propelled by wind catching in sails, representing nautical travel, leisure sailing, or harnessing natural forces."
+    },
+    {
+      "id": 239,
+      "emoji": "🏊",
+      "name": "Person Swimming",
+      "category": "Activities",
+      "meaning": "A human figure moving through water, symbolizing aquatic sports, exercise, or recreational water activities."
+    },
+    {
+      "id": 240,
+      "emoji": "🏄",
+      "name": "Person Surfing",
+      "category": "Activities",
+      "meaning": "A human figure riding a wave on a surfboard, representing beach culture, water sports, or riding life's waves."
+    },
+    {
+      "id": 241,
+      "emoji": "🏂",
+      "name": "Snowboarder",
+      "category": "Activities",
+      "meaning": "A person riding a snowboard down a slope, symbolizing winter sports, mountain recreation, or snow adventures."
+    },
+    {
+      "id": 242,
+      "emoji": "🏌️",
+      "name": "Person Golfing",
+      "category": "Activities",
+      "meaning": "A human figure swinging a golf club, representing the sport of golf, leisure activities, or precision sports."
+    },
+    {
+      "id": 243,
+      "emoji": "🚴",
+      "name": "Person Biking",
+      "category": "Activities",
+      "meaning": "A human figure riding a bicycle, symbolizing cycling sports, eco-friendly transportation, or outdoor exercise."
+    },
+    {
+      "id": 244,
+      "emoji": "🧗",
+      "name": "Person Climbing",
+      "category": "Activities",
+      "meaning": "A human figure scaling a rock or wall, representing mountaineering, overcoming challenges, or upward progress."
+    },
+    {
+      "id": 245,
+      "emoji": "🏆",
+      "name": "Trophy",
+      "category": "Activities",
+      "meaning": "A golden cup awarded for victory, symbolizing achievement, winning, or recognition of excellence."
+    },
+    {
+      "id": 246,
+      "emoji": "🏅",
+      "name": "Sports Medal",
+      "category": "Activities",
+      "meaning": "A circular medal on a ribbon, representing athletic achievement, competition rewards, or honorable recognition."
+    },
+    {
+      "id": 247,
+      "emoji": "🎯",
+      "name": "Direct Hit",
+      "category": "Activities",
+      "meaning": "A bullseye with an arrow in the center, symbolizing accuracy, achieving goals precisely, or hitting the mark."
+    },
+    {
+      "id": 248,
+      "emoji": "🎮",
+      "name": "Video Game Controller",
+      "category": "Activities",
+      "meaning": "A handheld device for playing games, representing gaming culture, electronic entertainment, or interactive media."
+    },
+    {
+      "id": 249,
+      "emoji": "🎲",
+      "name": "Game Die",
+      "category": "Activities",
+      "meaning": "A six-sided cube with dots representing numbers, symbolizing games of chance, randomness, or taking risks."
+    },
+    {
+      "id": 250,
+      "emoji": "🎭",
+      "name": "Performing Arts",
+      "category": "Activities",
+      "meaning": "Comedy and tragedy theatrical masks, representing drama, theater, or the contrasting emotions of human experience."
+    },
+    {
+      "id": 251,
+      "emoji": "🎨",
+      "name": "Artist Palette",
+      "category": "Activities",
+      "meaning": "A board with paint colors, symbolizing visual arts, creativity, or artistic expression."
+    },
+    {
+      "id": 252,
+      "emoji": "🎤",
+      "name": "Microphone",
+      "category": "Activities",
+      "meaning": "A handheld audio input device, representing singing, public speaking, or vocal performance."
+    },
+    {
+      "id": 253,
+      "emoji": "🎧",
+      "name": "Headphone",
+      "category": "Activities",
+      "meaning": "Audio listening equipment worn over the ears, symbolizing music appreciation, audio entertainment, or personal listening."
+    },
+    {
+      "id": 254,
+      "emoji": "🎷",
+      "name": "Saxophone",
+      "category": "Activities",
+      "meaning": "A brass wind instrument with a curved shape, representing jazz music, musical performance, or smooth sounds."
+    },
+    {
+      "id": 255,
+      "emoji": "🎸",
+      "name": "Guitar",
+      "category": "Activities",
+      "meaning": "A stringed musical instrument with a neck and body, symbolizing rock music, musical talent, or string instruments."
+    },
+    {
+      "id": 256,
+      "emoji": "🎹",
+      "name": "Piano",
+      "category": "Activities",
+      "meaning": "A keyboard musical instrument with black and white keys, representing classical music, composition, or keyboard instruments."
+    },
+    {
+      "id": 257,
+      "emoji": "🎺",
+      "name": "Trumpet",
+      "category": "Activities",
+      "meaning": "A brass wind instrument with three valves, symbolizing fanfare, brass bands, or bold musical statements."
+    },
+    {
+      "id": 258,
+      "emoji": "🎻",
+      "name": "Violin",
+      "category": "Activities",
+      "meaning": "A wooden stringed instrument played with a bow, representing classical music, orchestras, or string quartets."
+    },
+    {
+      "id": 259,
+      "emoji": "🎬",
+      "name": "Clapper Board",
+      "category": "Activities",
+      "meaning": "A filmmaking tool used to mark scenes, symbolizing movie production, film industry, or the beginning of action."
+    },
+    {
+      "id": 260,
+      "emoji": "🎵",
+      "name": "Musical Note",
+      "category": "Activities",
+      "meaning": "A symbol representing sound in music, symbolizing melody, songs, or musical expression."
+    },
+    {
+      "id": 261,
+      "emoji": "🎶",
+      "name": "Musical Notes",
+      "category": "Activities",
+      "meaning": "Multiple musical symbols, representing harmony, music in the air, or flowing melodies."
+    },
+    {
+      "id": 262,
+      "emoji": "🧩",
+      "name": "Puzzle Piece",
+      "category": "Activities",
+      "meaning": "A single piece of a jigsaw puzzle, symbolizing problem-solving, fitting together, or missing elements."
+    },
+    {
+      "id": 263,
+      "emoji": "🧸",
+      "name": "Teddy Bear",
+      "category": "Activities",
+      "meaning": "A stuffed toy bear, representing childhood, comfort objects, or innocent affection."
+    },
+    {
+      "id": 264,
+      "emoji": "🪁",
+      "name": "Kite",
+      "category": "Activities",
+      "meaning": "A light frame covered with paper or cloth for flying in the wind, symbolizing outdoor play, freedom, or soaring ambitions."
+    },
+    {
+      "id": 265,
+      "emoji": "🎈",
+      "name": "Balloon",
+      "category": "Activities",
+      "meaning": "An inflated rubber bag often used as decoration, representing celebrations, parties, or light-hearted joy."
+    },
+    {
+      "id": 266,
+      "emoji": "🧶",
+      "name": "Yarn",
+      "category": "Activities",
+      "meaning": "A ball of spun thread used for knitting or crochet, representing crafting, textile arts, or homemade creation."
+    },
+    {
+      "id": 267,
+      "emoji": "🧵",
+      "name": "Thread",
+      "category": "Activities",
+      "meaning": "A thin strand of fiber used for sewing, symbolizing connection, craftwork, or detailed handiwork."
+    },
+    {
+      "id": 268,
+      "emoji": "🥇",
+      "name": "Gold Medal",
+      "category": "Activities",
+      "meaning": "A first-place medal made of gold, representing championship, ultimate victory, or top achievement."
+    },
+    {
+      "id": 269,
+      "emoji": "🥈",
+      "name": "Silver Medal",
+      "category": "Activities",
+      "meaning": "A second-place medal made of silver, symbolizing runner-up status, notable achievement, or honorable performance."
+    },
+    {
+      "id": 270,
+      "emoji": "🥉",
+      "name": "Bronze Medal",
+      "category": "Activities",
+      "meaning": "A third-place medal made of bronze, representing commendable effort, placing on the podium, or recognized accomplishment."
+    },
+    {
+      "id": 271,
+      "emoji": "🍎",
+      "name": "Red Apple",
+      "category": "Food & Drink",
+      "meaning": "A crisp, sweet fruit with red skin, symbolizing health, education, or temptation."
+    },
+    {
+      "id": 272,
+      "emoji": "🍐",
+      "name": "Pear",
+      "category": "Food & Drink",
+      "meaning": "A sweet fruit with a distinctive tapered shape, representing sweetness, nutrition, or uniqueness."
+    },
+    {
+      "id": 273,
+      "emoji": "🍊",
+      "name": "Tangerine",
+      "category": "Food & Drink",
+      "meaning": "A small citrus fruit with orange skin, symbolizing vitamin C, refreshment, or easy-to-eat snacks."
+    },
+    {
+      "id": 274,
+      "emoji": "🍋",
+      "name": "Lemon",
+      "category": "Food & Drink",
+      "meaning": "A bright yellow citrus fruit with sour juice, representing tartness, cleansing properties, or making the best of difficult situations."
+    },
+    {
+      "id": 275,
+      "emoji": "🍌",
+      "name": "Banana",
+      "category": "Food & Drink",
+      "meaning": "A curved yellow fruit with a peelable skin, symbolizing energy, tropical foods, or convenient snacking."
+    },
+    {
+      "id": 276,
+      "emoji": "🍉",
+      "name": "Watermelon",
+      "category": "Food & Drink",
+      "meaning": "A large fruit with green rind and red flesh, representing summer refreshment, hydration, or seasonal enjoyment."
+    },
+    {
+      "id": 277,
+      "emoji": "🍇",
+      "name": "Grapes",
+      "category": "Food & Drink",
+      "meaning": "A bunch of small, juicy berries, symbolizing abundance, wine production, or clusters of goodness."
+    },
+    {
+      "id": 278,
+      "emoji": "🍓",
+      "name": "Strawberry",
+      "category": "Food & Drink",
+      "meaning": "A red fruit with seeds on its surface, representing sweetness, summer fruits, or romantic indulgence."
+    },
+    {
+      "id": 279,
+      "emoji": "🫐",
+      "name": "Blueberries",
+      "category": "Food & Drink",
+      "meaning": "Small round blue-purple berries, symbolizing antioxidants, brain health, or natural snacking."
+    },
+    {
+      "id": 280,
+      "emoji": "🍍",
+      "name": "Pineapple",
+      "category": "Food & Drink",
+      "meaning": "A tropical fruit with a spiky exterior and sweet interior, representing hospitality, tropical locations, or exotic flavors."
+    },
+    {
+      "id": 281,
+      "emoji": "🥭",
+      "name": "Mango",
+      "category": "Food & Drink",
+      "meaning": "A juicy tropical fruit with yellow-orange flesh, symbolizing sweetness, tropical indulgence, or exotic cuisine."
+    },
+    {
+      "id": 282,
+      "emoji": "🍑",
+      "name": "Peach",
+      "category": "Food & Drink",
+      "meaning": "A soft fruit with fuzzy skin and sweet flesh, representing summer harvests, sweetness, or gentle qualities."
+    },
+    {
+      "id": 283,
+      "emoji": "🍒",
+      "name": "Cherries",
+      "category": "Food & Drink",
+      "meaning": "Two red cherries with a stem, symbolizing pair relationships, sweet treats, or premium quality."
+    },
+    {
+      "id": 284,
+      "emoji": "🥝",
+      "name": "Kiwi Fruit",
+      "category": "Food & Drink",
+      "meaning": "A green fruit with tiny black seeds and fuzzy brown skin, representing exotic taste, nutritional density, or New Zealand."
+    },
+    {
+      "id": 285,
+      "emoji": "🥑",
+      "name": "Avocado",
+      "category": "Food & Drink",
+      "meaning": "A pear-shaped fruit with green flesh and a large pit, symbolizing healthy fats, trendy foods, or millennial cuisine."
+    },
+    {
+      "id": 286,
+      "emoji": "🍅",
+      "name": "Tomato",
+      "category": "Food & Drink",
+      "meaning": "A red fruit commonly used as a vegetable, representing versatility in cooking, Mediterranean cuisine, or garden harvests."
+    },
+    {
+      "id": 287,
+      "emoji": "🥕",
+      "name": "Carrot",
+      "category": "Food & Drink",
+      "meaning": "An orange root vegetable, symbolizing improved vision, healthy eating, or rabbit food."
+    },
+    {
+      "id": 288,
+      "emoji": "🌽",
+      "name": "Ear of Corn",
+      "category": "Food & Drink",
+      "meaning": "A yellow cereal grain on the cob, representing harvest season, agricultural abundance, or American farming."
+    },
+    {
+      "id": 289,
+      "emoji": "🧄",
+      "name": "Garlic",
+      "category": "Food & Drink",
+      "meaning": "A bulbous herb with strong flavor, symbolizing culinary enhancement, health benefits, or protection against vampires."
+    },
+    {
+      "id": 290,
+      "emoji": "🧅",
+      "name": "Onion",
+      "category": "Food & Drink",
+      "meaning": "A layered vegetable with pungent flavor, representing complexity, foundation ingredients, or tears while cutting."
+    },
+    {
+      "id": 291,
+      "emoji": "🥔",
+      "name": "Potato",
+      "category": "Food & Drink",
+      "meaning": "A starchy tuber vegetable, symbolizing comfort food, versatility in cooking, or staple nutrition."
+    },
+    {
+      "id": 292,
+      "emoji": "🥦",
+      "name": "Broccoli",
+      "category": "Food & Drink",
+      "meaning": "A green vegetable with dense florets, representing healthy eating, nutritional value, or childhood vegetable aversion."
+    },
+    {
+      "id": 293,
+      "emoji": "🍄",
+      "name": "Mushroom",
+      "category": "Food & Drink",
+      "meaning": "An edible fungus with a stem and cap, symbolizing foraging, umami flavor, or magical elements in nature."
+    },
+    {
+      "id": 294,
+      "emoji": "🥜",
+      "name": "Peanuts",
+      "category": "Food & Drink",
+      "meaning": "Legumes with edible seeds in pods, representing protein snacks, allergen awareness, or circus/baseball traditions."
+    },
+    {
+      "id": 295,
+      "emoji": "🧀",
+      "name": "Cheese Wedge",
+      "category": "Food & Drink",
+      "meaning": "A triangular portion of cheese, symbolizing dairy products, gourmet foods, or savory snacking."
+    },
+    {
+      "id": 296,
+      "emoji": "🥚",
+      "name": "Egg",
+      "category": "Food & Drink",
+      "meaning": "A white or brown oval food item, representing breakfast, protein sources, or potential new life."
+    },
+    {
+      "id": 297,
+      "emoji": "🍖",
+      "name": "Meat on Bone",
+      "category": "Food & Drink",
+      "meaning": "A piece of cooked meat with visible bone, symbolizing barbecue, carnivorous diets, or primal eating."
+    },
+    {
+      "id": 298,
+      "emoji": "🥩",
+      "name": "Cut of Meat",
+      "category": "Food & Drink",
+      "meaning": "A raw steak or chop, representing protein, grilling culture, or upscale dining."
+    },
+    {
+      "id": 299,
+      "emoji": "🍗",
+      "name": "Poultry Leg",
+      "category": "Food & Drink",
+      "meaning": "A cooked chicken drumstick, symbolizing casual dining, finger foods, or festive meals."
+    },
+    {
+      "id": 300,
+      "emoji": "🌭",
+      "name": "Hot Dog",
+      "category": "Food & Drink",
+      "meaning": "A sausage in a bun, representing fast food, ballpark snacks, or American casual cuisine."
+    }
+  ]
+}
