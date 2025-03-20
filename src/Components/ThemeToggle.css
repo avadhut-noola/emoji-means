@@ -1,0 +1,60 @@
+/* Toggle Container */
+.toggle-container {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  /* Toggle Label (Light/Dark Text) */
+  .toggle-text {
+    font-size: 14px;
+    font-weight: bold;
+    color: #555;
+  }
+  
+  /* Hide Default Checkbox */
+  #theme-toggle {
+    display: none;
+  }
+  
+  /* Toggle Switch */
+  .toggle-label {
+    width: 50px;
+    height: 24px;
+    background: #ccc;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    position: relative;
+    transition: 0.3s;
+  }
+  
+  /* Slider */
+  .toggle-slider {
+    width: 20px;
+    height: 20px;
+    background: white;
+    border-radius: 50%;
+    position: absolute;
+    left: 3px;
+    transition: 0.3s;
+  }
+  
+  /* Dark Mode Adjustments */
+  body[data-theme="dark"] .toggle-label {
+    background: #9B51E0;
+  }
+  
+  body[data-theme="dark"] .toggle-slider {
+    left: 27px;
+    background: #fff;
+  }
+  
+  body[data-theme="dark"] .toggle-text {
+    color: #FFD700; /* Gold */
+  }
+  
