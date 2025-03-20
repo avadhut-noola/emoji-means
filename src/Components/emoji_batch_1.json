@@ -1,0 +1,704 @@
+{
+  "emojis": [
+    {
+      "id": 1,
+      "emoji": "\u{1F600}",
+      "name": "Grinning Face",
+      "category": "Smileys",
+      "meaning": "A big, open-mouthed smile expressing genuine happiness and positive energy. Often used to convey general excitement or good vibes."
+    },
+    {
+      "id": 2,
+      "emoji": "\u{1F603}",
+      "name": "Grinning Face with Big Eyes",
+      "category": "Smileys",
+      "meaning": "An enthusiastic smile with wide, open eyes showing heightened excitement or pleasant surprise. Perfect for expressing extra cheerfulness."
+    },
+    {
+      "id": 3,
+      "emoji": "\u{1F604}",
+      "name": "Grinning Face with Smiling Eyes",
+      "category": "Smileys",
+      "meaning": "A warm, friendly smile with eyes scrunched in delight. Indicates heartfelt happiness where the joy reaches the eyes."
+    },
+    {
+      "id": 4,
+      "emoji": "\u{1F601}",
+      "name": "Beaming Face with Smiling Eyes",
+      "category": "Smileys",
+      "meaning": "A proud, satisfied grin with squinted eyes. Used when feeling particularly pleased with oneself or when sharing excellent news."
+    },
+    {
+      "id": 5,
+      "emoji": "\u{1F606}",
+      "name": "Grinning Squinting Face",
+      "category": "Smileys",
+      "meaning": "A face scrunched up in uncontrollable laughter with eyes squeezed shut. Represents something so funny it makes you close your eyes while laughing."
+    },
+    {
+      "id": 6,
+      "emoji": "\u{1F605}",
+      "name": "Grinning Face with Sweat",
+      "category": "Smileys",
+      "meaning": "A smiling face with a single bead of sweat. Represents relieved laughter after a close call or awkward situation."
+    },
+    {
+      "id": 7,
+      "emoji": "\u{1F923}",
+      "name": "Rolling on the Floor Laughing",
+      "category": "Smileys",
+      "meaning": "Hysterical laughter so intense you're rolling around laughing. Used for something extremely funny that causes uncontrollable amusement."
+    },
+    {
+      "id": 8,
+      "emoji": "\u{1F602}",
+      "name": "Face with Tears of Joy",
+      "category": "Smileys",
+      "meaning": "Laughing so hard that tears are streaming down. The ultimate expression of finding something absolutely hilarious."
+    },
+    {
+      "id": 9,
+      "emoji": "\u{1F642}",
+      "name": "Slightly Smiling Face",
+      "category": "Smileys",
+      "meaning": "A gentle, subtle smile suggesting basic contentment or politeness when full enthusiasm isn't quite warranted."
+    },
+    {
+      "id": 10,
+      "emoji": "\u{1F643}",
+      "name": "Upside-Down Face",
+      "category": "Smileys",
+      "meaning": "A face turned upside down, representing silliness, sarcasm, or passive aggression. Often used when something isn't going as expected but you're trying to stay positive."
+    },
+    {
+      "id": 11,
+      "emoji": "\u{1F609}",
+      "name": "Winking Face",
+      "category": "Smileys",
+      "meaning": "A face with one eye closed in a wink. Signals jest, flirtation, or an inside joke that shouldn't be taken too seriously."
+    },
+    {
+      "id": 12,
+      "emoji": "\u{1F60A}",
+      "name": "Smiling Face with Smiling Eyes",
+      "category": "Smileys",
+      "meaning": "A warm, genuine smile showing affection, gratitude, or contentment. The smile reaches the eyes, indicating sincerity."
+    },
+    {
+      "id": 13,
+      "emoji": "\u{1F607}",
+      "name": "Smiling Face with Halo",
+      "category": "Smileys",
+      "meaning": "An angelic smile with a golden halo, suggesting innocence or good deeds. Can be sincere or ironic when pretending to be overly virtuous."
+    },
+    {
+      "id": 14,
+      "emoji": "\u{1F970}",
+      "name": "Smiling Face with Hearts",
+      "category": "Smileys",
+      "meaning": "A face surrounded by hearts, expressing adoration, gratitude, and warm fuzzy feelings of love or deep appreciation."
+    },
+    {
+      "id": 15,
+      "emoji": "\u{1F60D}",
+      "name": "Smiling Face with Heart-Eyes",
+      "category": "Smileys",
+      "meaning": "A face with hearts for eyes, showing passionate admiration, infatuation, or intense love for something or someone."
+    },
+    {
+      "id": 16,
+      "emoji": "\u{1F929}",
+      "name": "Star-Struck",
+      "category": "Smileys",
+      "meaning": "A face with star eyes expressing excitement over celebrities, achievements, or something amazing that leaves you awestruck with admiration."
+    },
+    {
+      "id": 17,
+      "emoji": "\u{1F618}",
+      "name": "Face Blowing a Kiss",
+      "category": "Smileys",
+      "meaning": "A face with puckered lips sending a kiss, conveying affection, gratitude, or farewells with a loving touch."
+    },
+    {
+      "id": 18,
+      "emoji": "\u{1F617}",
+      "name": "Kissing Face",
+      "category": "Smileys",
+      "meaning": "A face with puckered lips but neutral eyes, showing a friendly, non-romantic kiss often used as a greeting or gesture of appreciation."
+    },
+    {
+      "id": 19,
+      "emoji": "\u{263A}",
+      "name": "Smiling Face",
+      "category": "Smileys",
+      "meaning": "A classic warm smile expressing authentic happiness and peaceful contentment without intensity or exaggeration."
+    },
+    {
+      "id": 20,
+      "emoji": "\u{1F61A}",
+      "name": "Kissing Face with Closed Eyes",
+      "category": "Smileys",
+      "meaning": "A face with puckered lips and gently closed eyes, expressing affection, tenderness, or romantic appreciation."
+    },
+    {
+      "id": 21,
+      "emoji": "\u{1F619}",
+      "name": "Kissing Face with Smiling Eyes",
+      "category": "Smileys",
+      "meaning": "A face with puckered lips and smiling eyes, showing playful affection combined with happiness."
+    },
+    {
+      "id": 22,
+      "emoji": "\u{1F972}",
+      "name": "Smiling Face with Tear",
+      "category": "Smileys",
+      "meaning": "A smile with a single tear, representing gratitude during difficult times or finding beauty in sadness. Bittersweet emotions."
+    },
+    {
+      "id": 23,
+      "emoji": "\u{1F60B}",
+      "name": "Face Savoring Food",
+      "category": "Smileys",
+      "meaning": "A happy face licking its lips, expressing enjoyment of delicious food or anticipation of something enticing or pleasurable."
+    },
+    {
+      "id": 24,
+      "emoji": "\u{1F61B}",
+      "name": "Face with Tongue",
+      "category": "Smileys",
+      "meaning": "A playful face with tongue sticking out, suggesting silliness, teasing, or playful mischief without serious intent."
+    },
+    {
+      "id": 25,
+      "emoji": "\u{1F61C}",
+      "name": "Winking Face with Tongue",
+      "category": "Smileys",
+      "meaning": "A face with tongue out and winking eye, representing playful joking with a hint of mischief or not taking things seriously."
+    },
+    {
+      "id": 26,
+      "emoji": "\u{1F92A}",
+      "name": "Zany Face",
+      "category": "Smileys",
+      "meaning": "A face with one large and one small eye and tongue out, representing wild energy, silliness, or eccentric behavior."
+    },
+    {
+      "id": 27,
+      "emoji": "\u{1F61D}",
+      "name": "Squinting Face with Tongue",
+      "category": "Smileys",
+      "meaning": "A face with tightly closed eyes and tongue out, expressing extreme silliness or goofy attitude along with intense humor."
+    },
+    {
+      "id": 28,
+      "emoji": "\u{1F911}",
+      "name": "Money-Mouth Face",
+      "category": "Smileys",
+      "meaning": "A face with dollar sign eyes and money tongue, representing wealth, luxury, or excitement about financial gain or opportunities."
+    },
+    {
+      "id": 29,
+      "emoji": "\u{1F917}",
+      "name": "Hugging Face",
+      "category": "Smileys",
+      "meaning": "A face with open hands, as if giving a hug, expressing support, love, or warmth when comforting someone or showing affection."
+    },
+    {
+      "id": 30,
+      "emoji": "\u{1F92D}",
+      "name": "Face with Hand Over Mouth",
+      "category": "Smileys",
+      "meaning": "A face with hand covering smile, representing surprise, coyness, or hiding amusement at something inappropriate or scandalous."
+    },
+    {
+      "id": 31,
+      "emoji": "\u{1F92B}",
+      "name": "Shushing Face",
+      "category": "Smileys",
+      "meaning": "A face with finger over lips, requesting silence or indicating a secret that shouldn't be shared widely."
+    },
+    {
+      "id": 32,
+      "emoji": "\u{1F914}",
+      "name": "Thinking Face",
+      "category": "Smileys",
+      "meaning": "A face with hand on chin, representing deep contemplation, skepticism, or puzzling over a complex situation or idea."
+    },
+    {
+      "id": 33,
+      "emoji": "\u{1F910}",
+      "name": "Zipper-Mouth Face",
+      "category": "Smileys",
+      "meaning": "A face with a zipper for a mouth, indicating secrecy, inability to speak about something, or forced silence on a sensitive topic."
+    },
+    {
+      "id": 34,
+      "emoji": "\u{1F928}",
+      "name": "Face with Raised Eyebrow",
+      "category": "Smileys",
+      "meaning": "A face with one eyebrow raised, expressing skepticism, disbelief, or questioning someone's statement or actions."
+    },
+    {
+      "id": 35,
+      "emoji": "\u{1F610}",
+      "name": "Neutral Face",
+      "category": "Smileys",
+      "meaning": "A face with flat, closed mouth and neutral eyes, showing emotional detachment, ambivalence, or withholding judgment."
+    },
+    {
+      "id": 36,
+      "emoji": "\u{1F611}",
+      "name": "Expressionless Face",
+      "category": "Smileys",
+      "meaning": "A face with straight line for mouth and expressionless eyes, conveying deadpan emotions, disinterest, or silent disapproval."
+    },
+    {
+      "id": 37,
+      "emoji": "\u{1F636}",
+      "name": "Face Without Mouth",
+      "category": "Smileys",
+      "meaning": "A face with no mouth, representing speechlessness, inability to express oneself, or carefully withholding comments."
+    },
+    {
+      "id": 38,
+      "emoji": "\u{1F60F}",
+      "name": "Smirking Face",
+      "category": "Smileys",
+      "meaning": "A face with a sly, smug, or suggestive half-smile, indicating flirtation, innuendo, or satisfaction at knowing something others don't."
+    },
+    {
+      "id": 39,
+      "emoji": "\u{1F612}",
+      "name": "Unamused Face",
+      "category": "Smileys",
+      "meaning": "A face with slight frown and eyes looking to the side, showing dissatisfaction, skepticism, or mild irritation at a situation."
+    },
+    {
+      "id": 40,
+      "emoji": "\u{1F644}",
+      "name": "Face with Rolling Eyes",
+      "category": "Smileys",
+      "meaning": "A face with eyes looking upward in an exaggerated roll, expressing exasperation, disbelief, or mild frustration at something ridiculous."
+    },
+    {
+      "id": 41,
+      "emoji": "\u{1F62C}",
+      "name": "Grimacing Face",
+      "category": "Smileys",
+      "meaning": "A face with gritted teeth and tense expression, showing awkwardness, nervousness, or discomfort in an uncomfortable situation."
+    },
+    {
+      "id": 42,
+      "emoji": "\u{1F925}",
+      "name": "Lying Face",
+      "category": "Smileys",
+      "meaning": "A face with long Pinocchio-like nose, representing dishonesty, untruths, or catching someone in a lie."
+    },
+    {
+      "id": 43,
+      "emoji": "\u{1F60C}",
+      "name": "Relieved Face",
+      "category": "Smileys",
+      "meaning": "A face with calm closed eyes and slight smile, showing serenity, contentment, or relief after stress has passed."
+    },
+    {
+      "id": 44,
+      "emoji": "\u{1F614}",
+      "name": "Pensive Face",
+      "category": "Smileys",
+      "meaning": "A face with slightly frowning mouth and sad, thoughtful eyes expressing disappointment, regret, or quiet sadness."
+    },
+    {
+      "id": 45,
+      "emoji": "\u{1F62A}",
+      "name": "Sleepy Face",
+      "category": "Smileys",
+      "meaning": "A drowsy face with a small bubble from the nose indicating extreme tiredness or boredom to the point of dozing off."
+    },
+    {
+      "id": 46,
+      "emoji": "\u{1F924}",
+      "name": "Drooling Face",
+      "category": "Smileys",
+      "meaning": "A face with drool dripping from one side of the mouth, representing extreme desire, hunger, or coveting something irresistible."
+    },
+    {
+      "id": 47,
+      "emoji": "\u{1F634}",
+      "name": "Sleeping Face",
+      "category": "Smileys",
+      "meaning": "A peaceful face with closed eyes and zzz above, indicating sound sleep, extreme tiredness, or boredom with a conversation."
+    },
+    {
+      "id": 48,
+      "emoji": "\u{1F637}",
+      "name": "Face with Medical Mask",
+      "category": "Smileys",
+      "meaning": "A face wearing a surgical mask, indicating illness, preventing spread of germs, or protecting oneself during health concerns."
+    },
+    {
+      "id": 49,
+      "emoji": "\u{1F912}",
+      "name": "Face with Thermometer",
+      "category": "Smileys",
+      "meaning": "A face with thermometer in mouth, showing fever, illness, or feeling sick enough to take one's temperature."
+    },
+    {
+      "id": 50,
+      "emoji": "\u{1F915}",
+      "name": "Face with Head-Bandage",
+      "category": "Smileys",
+      "meaning": "A face with bandaged head, representing physical injury, accident, or recovering from a medical procedure."
+    },
+    {
+      "id": 51,
+      "emoji": "\u{1F922}",
+      "name": "Nauseated Face",
+      "category": "Smileys",
+      "meaning": "A sickly green face expressing disgust, revulsion, or physical illness to the point of feeling queasy."
+    },
+    {
+      "id": 52,
+      "emoji": "\u{1F92E}",
+      "name": "Face Vomiting",
+      "category": "Smileys",
+      "meaning": "A face with projectile vomit, showing extreme disgust, severe illness, or intense revulsion at something unbearable."
+    },
+    {
+      "id": 53,
+      "emoji": "\u{1F927}",
+      "name": "Sneezing Face",
+      "category": "Smileys",
+      "meaning": "A face mid-sneeze with tissue, indicating allergies, common cold, or being affected by something irritating in the environment."
+    },
+    {
+      "id": 54,
+      "emoji": "\u{1F975}",
+      "name": "Hot Face",
+      "category": "Smileys",
+      "meaning": "A flushed red face with tongue out, conveying extreme heat, physical overexertion, or feeling overwhelmed by spicy food."
+    },
+    {
+      "id": 55,
+      "emoji": "\u{1F976}",
+      "name": "Cold Face",
+      "category": "Smileys",
+      "meaning": "A blue face with icicles and chattering teeth, representing freezing temperatures, winter weather, or emotional coldness."
+    },
+    {
+      "id": 56,
+      "emoji": "\u{1F974}",
+      "name": "Woozy Face",
+      "category": "Smileys",
+      "meaning": "A face with uneven eyes and wavy mouth, suggesting intoxication, dizziness, confusion or being overwhelmed by complex information."
+    },
+    {
+      "id": 57,
+      "emoji": "\u{1F635}",
+      "name": "Dizzy Face",
+      "category": "Smileys",
+      "meaning": "A face with spiral eyes, representing extreme confusion, shock, or feeling literally or figuratively knocked out by surprising news."
+    },
+    {
+      "id": 58,
+      "emoji": "\u{1F92F}",
+      "name": "Exploding Head",
+      "category": "Smileys",
+      "meaning": "A face with top of head exploding, expressing mind-blown feelings from shocking revelations or information overload."
+    },
+    {
+      "id": 59,
+      "emoji": "\u{1F920}",
+      "name": "Cowboy Hat Face",
+      "category": "Smileys",
+      "meaning": "A face wearing a western-style cowboy hat, embodying adventure, frontier spirit, or carefree confidence with Wild West energy."
+    },
+    {
+      "id": 60,
+      "emoji": "\u{1F973}",
+      "name": "Partying Face",
+      "category": "Smileys",
+      "meaning": "A face with party horn and party hat, celebrating special occasions, achievements, or bringing festive energy to conversations."
+    },
+    {
+      "id": 61,
+      "emoji": "\u{1F978}",
+      "name": "Disguised Face",
+      "category": "Smileys",
+      "meaning": "A face wearing groucho glasses with nose, mustache and eyebrows, representing disguise, anonymity, or trying to hide one's identity."
+    },
+    {
+      "id": 62,
+      "emoji": "\u{1F60E}",
+      "name": "Smiling Face with Sunglasses",
+      "category": "Smileys",
+      "meaning": "A cool face wearing sunglasses, exuding confidence, nonchalance, or acknowledging something awesome or impressive."
+    },
+    {
+      "id": 63,
+      "emoji": "\u{1F913}",
+      "name": "Nerd Face",
+      "category": "Smileys",
+      "meaning": "A face with big glasses and buck teeth, representing intelligence, studiousness, or enthusiasm for academic or technical subjects."
+    },
+    {
+      "id": 64,
+      "emoji": "\u{1F9D0}",
+      "name": "Face with Monocle",
+      "category": "Smileys",
+      "meaning": "A face with a single eyeglass, suggesting scrutiny, detailed examination, or sophisticated analysis of a situation."
+    },
+    {
+      "id": 65,
+      "emoji": "\u{1F615}",
+      "name": "Confused Face",
+      "category": "Smileys",
+      "meaning": "A face with slightly furrowed brow and downturned mouth, showing confusion, uncertainty, or mild dissatisfaction with a situation."
+    },
+    {
+      "id": 66,
+      "emoji": "\u{1F61F}",
+      "name": "Worried Face",
+      "category": "Smileys",
+      "meaning": "A concerned face with furrowed brow and slight frown, expressing anxiety, distress, or apprehension about a situation."
+    },
+    {
+      "id": 67,
+      "emoji": "\u{1F641}",
+      "name": "Slightly Frowning Face",
+      "category": "Smileys",
+      "meaning": "A face with gentle downturned mouth, showing mild disappointment, sadness, or disapproval without intense negativity."
+    },
+    {
+      "id": 68,
+      "emoji": "\u{2639}",
+      "name": "Frowning Face",
+      "category": "Smileys",
+      "meaning": "A face with strongly downturned mouth, expressing unhappiness, disappointment, or dismay about a situation."
+    },
+    {
+      "id": 69,
+      "emoji": "\u{1F62E}",
+      "name": "Face with Open Mouth",
+      "category": "Smileys",
+      "meaning": "A surprised face with wide open mouth, showing astonishment, shock, or sudden realization of unexpected information."
+    },
+    {
+      "id": 70,
+      "emoji": "\u{1F62F}",
+      "name": "Hushed Face",
+      "category": "Smileys",
+      "meaning": "A surprised face with wide eyes and small, round mouth, expressing quiet shock, disbelief, or speechless amazement."
+    },
+    {
+      "id": 71,
+      "emoji": "\u{1F632}",
+      "name": "Astonished Face",
+      "category": "Smileys",
+      "meaning": "A face with wide open mouth and eyes, showing intense surprise, amazement, or shock at unexpected revelations."
+    },
+    {
+      "id": 72,
+      "emoji": "\u{1F633}",
+      "name": "Flushed Face",
+      "category": "Smileys",
+      "meaning": "A face with wide eyes and red cheeks, expressing embarrassment, sudden unexpected attention, or feeling put on the spot."
+    },
+    {
+      "id": 73,
+      "emoji": "\u{1F97A}",
+      "name": "Pleading Face",
+      "category": "Smileys",
+      "meaning": "A face with big glossy eyes and slight frown, making a heart-melting expression of begging, beseeching, or seeking sympathy."
+    },
+    {
+      "id": 74,
+      "emoji": "\u{1F626}",
+      "name": "Frowning Face with Open Mouth",
+      "category": "Smileys",
+      "meaning": "A face with downturned eyebrows and open mouth, showing dismay combined with surprise or shock at unexpected negative developments."
+    },
+    {
+      "id": 75,
+      "emoji": "\u{1F627}",
+      "name": "Anguished Face",
+      "category": "Smileys",
+      "meaning": "A deeply distressed face with raised eyebrows and open grimacing mouth, expressing suffering, intense concern, or painful empathy."
+    },
+    {
+      "id": 76,
+      "emoji": "\u{1F628}",
+      "name": "Fearful Face",
+      "category": "Smileys",
+      "meaning": "A scared face with raised eyebrows and open mouth, showing fear, alarm, or sudden shock at a frightening situation."
+    },
+    {
+      "id": 77,
+      "emoji": "\u{1F630}",
+      "name": "Anxious Face with Sweat",
+      "category": "Smileys",
+      "meaning": "A face with open mouth, raised eyebrows and sweat, representing intense nervousness, anxiety, or distress in a tense situation."
+    },
+    {
+      "id": 78,
+      "emoji": "\u{1F625}",
+      "name": "Sad but Relieved Face",
+      "category": "Smileys",
+      "meaning": "A face with downturned mouth and bead of sweat, representing disappointment mixed with relief that something wasn't worse."
+    },
+    {
+      "id": 79,
+      "emoji": "\u{1F622}",
+      "name": "Crying Face",
+      "category": "Smileys",
+      "meaning": "A sad face with a single tear, expressing moderate sadness, disappointment, or sympathy for someone else's pain."
+    },
+    {
+      "id": 80,
+      "emoji": "\u{1F62D}",
+      "name": "Loudly Crying Face",
+      "category": "Smileys",
+      "meaning": "A face with streams of tears and open mouth, indicating intense crying, overwhelming grief, or uncontrollable emotional outpouring."
+    },
+    {
+      "id": 81,
+      "emoji": "\u{1F631}",
+      "name": "Face Screaming in Fear",
+      "category": "Smileys",
+      "meaning": "A face inspired by 'The Scream' painting with hands on cheeks, expressing extreme terror, shock, or overwhelming panic."
+    },
+    {
+      "id": 82,
+      "emoji": "\u{1F616}",
+      "name": "Confounded Face",
+      "category": "Smileys",
+      "meaning": "A face with scrunched, closed eyes and downturned mouth, showing frustration, embarrassment, or extreme disappointment."
+    },
+    {
+      "id": 83,
+      "emoji": "\u{1F623}",
+      "name": "Persevering Face",
+      "category": "Smileys",
+      "meaning": "A face with scrunched eyes and tight mouth, showing determination during hardship or struggling through a difficult challenge."
+    },
+    {
+      "id": 84,
+      "emoji": "\u{1F61E}",
+      "name": "Disappointed Face",
+      "category": "Smileys",
+      "meaning": "A face with downcast eyes and frown, expressing despondency, rejection, or personal failure without dramatic intensity."
+    },
+    {
+      "id": 85,
+      "emoji": "\u{1F613}",
+      "name": "Downcast Face with Sweat",
+      "category": "Smileys",
+      "meaning": "A face with downcast eyes and a bead of sweat, showing regret, shame, or embarrassment after making a mistake."
+    },
+    {
+      "id": 86,
+      "emoji": "\u{1F629}",
+      "name": "Weary Face",
+      "category": "Smileys",
+      "meaning": "A face with closed eyes and open mouth expressing exhaustion, exasperation, or feeling completely drained by life's demands."
+    },
+    {
+      "id": 87,
+      "emoji": "\u{1F62B}",
+      "name": "Tired Face",
+      "category": "Smileys",
+      "meaning": "A face with pinched eyes and open frowning mouth showing complete exhaustion, frustration, or being at one's absolute limit."
+    },
+    {
+      "id": 88,
+      "emoji": "\u{1F971}",
+      "name": "Yawning Face",
+      "category": "Smileys",
+      "meaning": "A face with mouth wide open mid-yawn, indicating tiredness, boredom, or finding something tediously uninteresting."
+    },
+    {
+      "id": 89,
+      "emoji": "\u{1F624}",
+      "name": "Face with Steam From Nose",
+      "category": "Smileys",
+      "meaning": "A face with steam puffing from the nose, showing indignation, determined triumph, or frustrated anger after being provoked."
+    },
+    {
+      "id": 90,
+      "emoji": "\u{1F621}",
+      "name": "Pouting Face",
+      "category": "Smileys",
+      "meaning": "A red face with angry expression and furrowed brows, showing rage, intense anger, or extreme frustration at a situation."
+    },
+    {
+      "id": 91,
+      "emoji": "\u{1F620}",
+      "name": "Angry Face",
+      "category": "Smileys",
+      "meaning": "A face with furrowed brows and pursed lips, expressing anger, irritation, or annoyance that hasn't reached boiling point."
+    },
+    {
+      "id": 92,
+      "emoji": "\u{1F92C}",
+      "name": "Face with Symbols on Mouth",
+      "category": "Smileys",
+      "meaning": "A red face with symbols covering the mouth, indicating extreme anger, profanity, or censored swearing in heated moments."
+    },
+    {
+      "id": 93,
+      "emoji": "\u{1F608}",
+      "name": "Smiling Face with Horns",
+      "category": "Smileys",
+      "meaning": "A mischievous purple face with horns and smiling, representing playful trouble-making, light villainy, or temptation."
+    },
+    {
+      "id": 94,
+      "emoji": "\u{1F47F}",
+      "name": "Angry Face with Horns",
+      "category": "Smileys",
+      "meaning": "A purple devil face with angry expression, representing genuine malice, harmful intent, or more serious wickedness."
+    },
+    {
+      "id": 95,
+      "emoji": "\u{1F480}",
+      "name": "Skull",
+      "category": "Smileys",
+      "meaning": "A human skull, representing death, danger, poison warnings, or extreme metaphorical reactions like 'dying of embarrassment'."
+    },
+    {
+      "id": 96,
+      "emoji": "\u{2620}",
+      "name": "Skull and Crossbones",
+      "category": "Smileys",
+      "meaning": "A skull with crossed bones beneath, symbolizing poison, lethal danger, or piracy and frequently used as a warning symbol."
+    },
+    {
+      "id": 97,
+      "emoji": "\u{1F4A9}",
+      "name": "Pile of Poo",
+      "category": "Smileys",
+      "meaning": "A smiling pile of poop, used for gross humor, discussing something of poor quality, or as a goofy way to show something's terrible."
+    },
+    {
+      "id": 98,
+      "emoji": "\u{1F921}",
+      "name": "Clown Face",
+      "category": "Smileys",
+      "meaning": "A classic circus clown face with colorful hair, representing entertainment, foolishness, or sometimes creepiness after horror movies popularized scary clowns."
+    },
+    {
+      "id": 99,
+      "emoji": "\u{1F479}",
+      "name": "Ogre",
+      "category": "Smileys",
+      "meaning": "A red Japanese ogre mask (oni) with horns and angry expression, representing monsters, demons, or intimidating figures from folklore."
+    },
+    {
+      "id": 100,
+      "emoji": "\u{1F47A}",
+      "name": "Goblin",
+      "category": "Smileys",
+      "meaning": "A red Japanese tengu mask with long nose, representing mythological creatures, goblins, or tricksters with malicious intentions."
+    }
+  ]
+}
