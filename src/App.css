@@ -189,7 +189,7 @@ body[data-theme="dark"] dt {
 
 /* Dark Mode Search Hover */
 body[data-theme="dark"] .search-bar:focus {
-  border-color: #FF8C00	; /* Amber Orange	is chosen for dark mode search bar	 */
+  border-color: #FFD700	; /* Golden	is chosen for dark-mode search bar	 */
 }
 
 
