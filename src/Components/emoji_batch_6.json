@@ -1,0 +1,751 @@
+[
+  {
+    "id": 501,
+    "emoji": "\u1F198",
+    "name": "SOS Button",
+    "category": "Symbols",
+    "meaning": "The letters 'SOS' in a red square. The international distress signal indicating emergency, urgent help needed, or critical situation."
+  },
+  {
+    "id": 502,
+    "emoji": "\u1F199",
+    "name": "UP! Button",
+    "category": "Symbols",
+    "meaning": "The word 'UP' with an exclamation mark in a square. Indicates upward movement, improvement, or something that's trending positively."
+  },
+  {
+    "id": 503,
+    "emoji": "\u1F19A",
+    "name": "VS Button",
+    "category": "Symbols",
+    "meaning": "The letters 'VS' in an orange square. Abbreviation for 'versus', indicating competition, comparison, or opposition between two entities."
+  },
+  {
+    "id": 504,
+    "emoji": "\u1F201",
+    "name": "Japanese 'Here' Button",
+    "category": "Symbols",
+    "meaning": "The Japanese character for 'koko' (here). Indicates current location or position in Japanese contexts."
+  },
+  {
+    "id": 505,
+    "emoji": "\u1F202",
+    "name": "Japanese 'Service Charge' Button",
+    "category": "Symbols",
+    "meaning": "The Japanese character for 'sa' in a square. Indicates a service charge in Japanese business contexts."
+  },
+  {
+    "id": 506,
+    "emoji": "\u1F21A",
+    "name": "Japanese 'Free of Charge' Button",
+    "category": "Symbols",
+    "meaning": "The Japanese character for 'muryō' (free). Indicates something available without cost in Japanese contexts."
+  },
+  {
+    "id": 507,
+    "emoji": "\u1F22F",
+    "name": "Japanese 'Reserved' Button",
+    "category": "Symbols",
+    "meaning": "The Japanese character for 'shitei' (designated). Indicates something reserved or specifically allocated in Japanese contexts."
+  },
+  {
+    "id": 508,
+    "emoji": "\u1F232",
+    "name": "Japanese 'Prohibited' Button",
+    "category": "Symbols",
+    "meaning": "The Japanese character for 'kinshi' (prohibited). Indicates something forbidden or not allowed in Japanese contexts."
+  },
+  {
+    "id": 509,
+    "emoji": "\u1F233",
+    "name": "Japanese 'Vacancy' Button",
+    "category": "Symbols",
+    "meaning": "The Japanese character for 'kūshū' (vacancy). Indicates available space or openings in Japanese contexts."
+  },
+  {
+    "id": 510,
+    "emoji": "\u1F234",
+    "name": "Japanese 'Passing Grade' Button",
+    "category": "Symbols",
+    "meaning": "The Japanese character for 'gōkaku' (passing grade). Indicates success or qualification in Japanese academic contexts."
+  },
+  {
+    "id": 511,
+    "emoji": "\u1F235",
+    "name": "Japanese 'No Vacancy' Button",
+    "category": "Symbols",
+    "meaning": "The Japanese character for 'man' (full). Indicates no availability or full capacity in Japanese contexts."
+  },
+  {
+    "id": 512,
+    "emoji": "\u1F236",
+    "name": "Japanese 'Not Free of Charge' Button",
+    "category": "Symbols",
+    "meaning": "The Japanese character for 'yūryō' (not free). Indicates payment required in Japanese business contexts."
+  },
+  {
+    "id": 513,
+    "emoji": "\u1F237",
+    "name": "Japanese 'Monthly Amount' Button",
+    "category": "Symbols",
+    "meaning": "The Japanese character for 'tsuki' (month). Indicates monthly payment or subscription in Japanese business contexts."
+  },
+  {
+    "id": 514,
+    "emoji": "\u1F238",
+    "name": "Japanese 'Application' Button",
+    "category": "Symbols",
+    "meaning": "The Japanese character for 'mōshikomi' (application). Indicates forms or requests in Japanese administrative contexts."
+  },
+  {
+    "id": 515,
+    "emoji": "\u1F239",
+    "name": "Japanese 'Discount' Button",
+    "category": "Symbols",
+    "meaning": "The Japanese character for 'waribiki' (discount). Indicates reduced prices or special offers in Japanese shopping contexts."
+  },
+  {
+    "id": 516,
+    "emoji": "\u1F23A",
+    "name": "Japanese 'Open for Business' Button",
+    "category": "Symbols",
+    "meaning": "The Japanese character for 'eigyōchū' (open for business). Indicates active operation hours in Japanese business contexts."
+  },
+  {
+    "id": 517,
+    "emoji": "\u1F250",
+    "name": "Japanese 'Bargain' Button",
+    "category": "Symbols",
+    "meaning": "The Japanese character for 'tokubetsu' (special). Indicates exceptional value or deals in Japanese shopping contexts."
+  },
+  {
+    "id": 518,
+    "emoji": "\u1F251",
+    "name": "Japanese 'Acceptable' Button",
+    "category": "Symbols",
+    "meaning": "The Japanese character for 'katsuyō' (accept). Indicates approval or acceptance in Japanese administrative contexts."
+  },
+  {
+    "id": 519,
+    "emoji": "\u3299",
+    "name": "Japanese 'Secret' Button",
+    "category": "Symbols",
+    "meaning": "The Japanese character for 'himitsu' (secret). Indicates confidentiality or private information in Japanese contexts."
+  },
+  {
+    "id": 520,
+    "emoji": "\u3297",
+    "name": "Japanese 'Congratulations' Button",
+    "category": "Symbols",
+    "meaning": "The Japanese character for 'omedeto' (congratulations). Used to celebrate achievements or special occasions in Japanese culture."
+  },
+  {
+    "id": 521,
+    "emoji": "\u1F6D0",
+    "name": "Place of Worship",
+    "category": "Symbols",
+    "meaning": "A person with hands in prayer position. Indicates a religious site or sacred space across various faith traditions."
+  },
+  {
+    "id": 522,
+    "emoji": "\u269B",
+    "name": "Atom Symbol",
+    "category": "Symbols",
+    "meaning": "A stylized atom with electrons orbiting a nucleus. Represents science, physics, nuclear energy, or atomic theory."
+  },
+  {
+    "id": 523,
+    "emoji": "\u1F549",
+    "name": "Om Symbol",
+    "category": "Symbols",
+    "meaning": "The sacred Sanskrit symbol 'Om' or 'Aum'. Represents the essence of the universe in Hindu, Buddhist, and Jain traditions."
+  },
+  {
+    "id": 524,
+    "emoji": "\u2721",
+    "name": "Star of David",
+    "category": "Symbols",
+    "meaning": "A six-pointed star formed by two triangles. Represents Judaism, Jewish identity, and the shield of King David."
+  },
+  {
+    "id": 525,
+    "emoji": "\u2638",
+    "name": "Wheel of Dharma",
+    "category": "Symbols",
+    "meaning": "An eight-spoked wheel. Represents Buddhism, the Buddha's teachings, and the Noble Eightfold Path."
+  },
+  {
+    "id": 526,
+    "emoji": "\u262F",
+    "name": "Yin Yang",
+    "category": "Symbols",
+    "meaning": "A circle divided into black and white sections with opposite-colored dots. Represents balance, harmony, and the interconnection of opposing forces in Chinese philosophy."
+  },
+  {
+    "id": 527,
+    "emoji": "\u271D",
+    "name": "Latin Cross",
+    "category": "Symbols",
+    "meaning": "A simple cross with a longer vertical line. Represents Christianity, Christ's crucifixion, and Christian faith."
+  },
+  {
+    "id": 528,
+    "emoji": "\u2626",
+    "name": "Orthodox Cross",
+    "category": "Symbols",
+    "meaning": "A cross with three horizontal bars. Represents Eastern Orthodox Christianity and Byzantine traditions."
+  },
+  {
+    "id": 529,
+    "emoji": "\u262A",
+    "name": "Star and Crescent",
+    "category": "Symbols",
+    "meaning": "A crescent moon with a star. Represents Islam, appearing on several national flags of Muslim-majority countries."
+  },
+  {
+    "id": 530,
+    "emoji": "\u262E",
+    "name": "Peace Symbol",
+    "category": "Symbols",
+    "meaning": "A circle with a vertical line and downward-sloping lines. Represents peace, anti-war sentiment, and nonviolence movements."
+  },
+  {
+    "id": 531,
+    "emoji": "\u1F54E",
+    "name": "Menorah",
+    "category": "Symbols",
+    "meaning": "A nine-branched candelabrum. Represents Judaism, particularly the festival of Hanukkah and the miracle of light."
+  },
+  {
+    "id": 532,
+    "emoji": "\u1F52F",
+    "name": "Dotted Six-Pointed Star",
+    "category": "Symbols",
+    "meaning": "A six-pointed star with a dot in the center. Used in various mystical traditions to represent the union of opposites."
+  },
+  {
+    "id": 533,
+    "emoji": "\u2648",
+    "name": "Aries",
+    "category": "Symbols",
+    "meaning": "The ram zodiac symbol. Represents those born between March 21 and April 19, associated with fire element and pioneering spirit."
+  },
+  {
+    "id": 534,
+    "emoji": "\u2649",
+    "name": "Taurus",
+    "category": "Symbols",
+    "meaning": "The bull zodiac symbol. Represents those born between April 20 and May 20, associated with earth element and steadfastness."
+  },
+  {
+    "id": 535,
+    "emoji": "\u264A",
+    "name": "Gemini",
+    "category": "Symbols",
+    "meaning": "The twins zodiac symbol. Represents those born between May 21 and June 20, associated with air element and duality."
+  },
+  {
+    "id": 536,
+    "emoji": "\u264B",
+    "name": "Cancer",
+    "category": "Symbols",
+    "meaning": "The crab zodiac symbol. Represents those born between June 21 and July 22, associated with water element and emotional depth."
+  },
+  {
+    "id": 537,
+    "emoji": "\u264C",
+    "name": "Leo",
+    "category": "Symbols",
+    "meaning": "The lion zodiac symbol. Represents those born between July 23 and August 22, associated with fire element and natural leadership."
+  },
+  {
+    "id": 538,
+    "emoji": "\u264D",
+    "name": "Virgo",
+    "category": "Symbols",
+    "meaning": "The maiden zodiac symbol. Represents those born between August 23 and September 22, associated with earth element and analytical thinking."
+  },
+  {
+    "id": 539,
+    "emoji": "\u264E",
+    "name": "Libra",
+    "category": "Symbols",
+    "meaning": "The scales zodiac symbol. Represents those born between September 23 and October 22, associated with air element and balance."
+  },
+  {
+    "id": 540,
+    "emoji": "\u264F",
+    "name": "Scorpio",
+    "category": "Symbols",
+    "meaning": "The scorpion zodiac symbol. Represents those born between October 23 and November 21, associated with water element and intensity."
+  },
+  {
+    "id": 541,
+    "emoji": "\u2650",
+    "name": "Sagittarius",
+    "category": "Symbols",
+    "meaning": "The archer zodiac symbol. Represents those born between November 22 and December 21, associated with fire element and exploration."
+  },
+  {
+    "id": 542,
+    "emoji": "\u2651",
+    "name": "Capricorn",
+    "category": "Symbols",
+    "meaning": "The sea-goat zodiac symbol. Represents those born between December 22 and January 19, associated with earth element and ambition."
+  },
+  {
+    "id": 543,
+    "emoji": "\u2652",
+    "name": "Aquarius",
+    "category": "Symbols",
+    "meaning": "The water bearer zodiac symbol. Represents those born between January 20 and February 18, associated with air element and innovation."
+  },
+  {
+    "id": 544,
+    "emoji": "\u2653",
+    "name": "Pisces",
+    "category": "Symbols",
+    "meaning": "The fish zodiac symbol. Represents those born between February 19 and March 20, associated with water element and intuition."
+  },
+  {
+    "id": 545,
+    "emoji": "\u26CE",
+    "name": "Ophiuchus",
+    "category": "Symbols",
+    "meaning": "The serpent bearer zodiac symbol. Represents a 13th astrological sign sometimes included in modern interpretations, for those born between November 30 and December 17."
+  },
+  {
+    "id": 546,
+    "emoji": "\u1F500",
+    "name": "Shuffle Tracks Button",
+    "category": "Symbols",
+    "meaning": "Two crossing arrows forming an X. Indicates random playback or shuffling of songs, videos, or other content in media players."
+  },
+  {
+    "id": 547,
+    "emoji": "\u1F501",
+    "name": "Repeat Button",
+    "category": "Symbols",
+    "meaning": "Two arrows forming a circular pattern. Indicates repeating content or looping playback in media players."
+  },
+  {
+    "id": 548,
+    "emoji": "\u1F502",
+    "name": "Repeat Single Button",
+    "category": "Symbols",
+    "meaning": "Two circular arrows with the number 1. Indicates repeating a single item or track in media players."
+  },
+  {
+    "id": 549,
+    "emoji": "\u25B6",
+    "name": "Play Button",
+    "category": "Symbols",
+    "meaning": "A rightward-pointing triangle. The universal symbol for playing media content in audio and video players."
+  },
+  {
+    "id": 550,
+    "emoji": "\u23F5",
+    "name": "Play Button",
+    "category": "Symbols",
+    "meaning": "A rightward-pointing triangle. Alternative representation of the play symbol for media content."
+  },
+  {
+    "id": 551,
+    "emoji": "\u23F8",
+    "name": "Pause Button",
+    "category": "Symbols",
+    "meaning": "Two vertical bars side by side. The universal symbol for pausing media content in audio and video players."
+  },
+  {
+    "id": 552,
+    "emoji": "\u23EF",
+    "name": "Play or Pause Button",
+    "category": "Symbols",
+    "meaning": "Combined play and pause symbols. Represents a toggle control for playing or pausing media content."
+  },
+  {
+    "id": 553,
+    "emoji": "\u23F9",
+    "name": "Stop Button",
+    "category": "Symbols",
+    "meaning": "A solid square. The universal symbol for stopping media playback in audio and video players."
+  },
+  {
+    "id": 554,
+    "emoji": "\u23FA",
+    "name": "Record Button",
+    "category": "Symbols",
+    "meaning": "A solid circle, typically red. The universal symbol for recording audio or video content."
+  },
+  {
+    "id": 555,
+    "emoji": "\u23ED",
+    "name": "Next Track Button",
+    "category": "Symbols",
+    "meaning": "A rightward-pointing triangle with a vertical bar. Indicates skipping to the next item in a playlist or sequence."
+  },
+  {
+    "id": 556,
+    "emoji": "\u23EE",
+    "name": "Last Track Button",
+    "category": "Symbols",
+    "meaning": "A leftward-pointing triangle with a vertical bar. Indicates returning to the previous item in a playlist or sequence."
+  },
+  {
+    "id": 557,
+    "emoji": "\u23E9",
+    "name": "Fast-Forward Button",
+    "category": "Symbols",
+    "meaning": "Two rightward-pointing triangles. Indicates quickly advancing through media content."
+  },
+  {
+    "id": 558,
+    "emoji": "\u23EA",
+    "name": "Fast Reverse Button",
+    "category": "Symbols",
+    "meaning": "Two leftward-pointing triangles. Indicates quickly rewinding through media content."
+  },
+  {
+    "id": 559,
+    "emoji": "\u23EB",
+    "name": "Fast Up Button",
+    "category": "Symbols",
+    "meaning": "Two upward-pointing triangles. Indicates rapidly increasing values or quick upward navigation."
+  },
+  {
+    "id": 560,
+    "emoji": "\u23EC",
+    "name": "Fast Down Button",
+    "category": "Symbols",
+    "meaning": "Two downward-pointing triangles. Indicates rapidly decreasing values or quick downward navigation."
+  },
+  {
+    "id": 561,
+    "emoji": "\u23F3",
+    "name": "Hourglass Not Done",
+    "category": "Objects",
+    "meaning": "An hourglass with sand still flowing. Represents time passing, process in progress, or waiting for completion."
+  },
+  {
+    "id": 562,
+    "emoji": "\u231B",
+    "name": "Hourglass Done",
+    "category": "Objects",
+    "meaning": "An hourglass with sand fully collected at the bottom. Represents completed time, finished process, or elapsed deadline."
+  },
+  {
+    "id": 563,
+    "emoji": "\u23F0",
+    "name": "Alarm Clock",
+    "category": "Objects",
+    "meaning": "A bedside clock with bells or alert indicators. Represents waking up, time-sensitive reminders, or scheduled alerts."
+  },
+  {
+    "id": 564,
+    "emoji": "\u231A",
+    "name": "Watch",
+    "category": "Objects",
+    "meaning": "A wristwatch or timepiece. Represents time keeping, punctuality, or checking the current time."
+  },
+  {
+    "id": 565,
+    "emoji": "\u23F1",
+    "name": "Stopwatch",
+    "category": "Objects",
+    "meaning": "A handheld timing device. Represents precise timing, measuring duration, or recording speeds in sports and other activities."
+  },
+  {
+    "id": 566,
+    "emoji": "\u23F2",
+    "name": "Timer Clock",
+    "category": "Objects",
+    "meaning": "A countdown timer device. Represents limited time periods, cooking timers, or timing specific activities."
+  },
+  {
+    "id": 567,
+    "emoji": "\u1F570",
+    "name": "Mantelpiece Clock",
+    "category": "Objects",
+    "meaning": "An ornate clock for display on a mantel. Represents traditional timekeeping, home decor, or vintage aesthetics."
+  },
+  {
+    "id": 568,
+    "emoji": "\u1F55B",
+    "name": "Twelve O'Clock",
+    "category": "Travel & Places",
+    "meaning": "A clock face showing 12:00. Represents noon, midnight, or a full hour cycle completed."
+  },
+  {
+    "id": 569,
+    "emoji": "\u1F567",
+    "name": "Twelve-Thirty",
+    "category": "Travel & Places",
+    "meaning": "A clock face showing 12:30. Represents half past noon or midnight, or a specific meeting time."
+  },
+  {
+    "id": 570,
+    "emoji": "\u1F550",
+    "name": "One O'Clock",
+    "category": "Travel & Places",
+    "meaning": "A clock face showing 1:00. Represents an hour after noon or midnight, or a specific meeting time."
+  },
+  {
+    "id": 571,
+    "emoji": "\u1F55C",
+    "name": "One-Thirty",
+    "category": "Travel & Places",
+    "meaning": "A clock face showing 1:30. Represents half past one, or a specific meeting time."
+  },
+  {
+    "id": 572,
+    "emoji": "\u1F551",
+    "name": "Two O'Clock",
+    "category": "Travel & Places",
+    "meaning": "A clock face showing 2:00. Represents two hours after noon or midnight, or a specific meeting time."
+  },
+  {
+    "id": 573,
+    "emoji": "\u1F55D",
+    "name": "Two-Thirty",
+    "category": "Travel & Places",
+    "meaning": "A clock face showing 2:30. Represents half past two, or a specific meeting time."
+  },
+  {
+    "id": 574,
+    "emoji": "\u1F552",
+    "name": "Three O'Clock",
+    "category": "Travel & Places",
+    "meaning": "A clock face showing 3:00. Represents three hours after noon or midnight, or a specific meeting time."
+  },
+  {
+    "id": 575,
+    "emoji": "\u1F55E",
+    "name": "Three-Thirty",
+    "category": "Travel & Places",
+    "meaning": "A clock face showing 3:30. Represents half past three, or a specific meeting time."
+  },
+  {
+    "id": 576,
+    "emoji": "\u1F553",
+    "name": "Four O'Clock",
+    "category": "Travel & Places",
+    "meaning": "A clock face showing 4:00. Represents four hours after noon or midnight, or a specific meeting time."
+  },
+  {
+    "id": 577,
+    "emoji": "\u1F55F",
+    "name": "Four-Thirty",
+    "category": "Travel & Places",
+    "meaning": "A clock face showing 4:30. Represents half past four, or a specific meeting time."
+  },
+  {
+    "id": 578,
+    "emoji": "\u1F554",
+    "name": "Five O'Clock",
+    "category": "Travel & Places",
+    "meaning": "A clock face showing 5:00. Represents five hours after noon or midnight, often associated with the end of the workday."
+  },
+  {
+    "id": 579,
+    "emoji": "\u1F560",
+    "name": "Five-Thirty",
+    "category": "Travel & Places",
+    "meaning": "A clock face showing 5:30. Represents half past five, or a specific meeting time."
+  },
+  {
+    "id": 580,
+    "emoji": "\u1F555",
+    "name": "Six O'Clock",
+    "category": "Travel & Places",
+    "meaning": "A clock face showing 6:00. Represents six hours after noon or midnight, often associated with dinner time."
+  },
+  {
+    "id": 581,
+    "emoji": "\u1F561",
+    "name": "Six-Thirty",
+    "category": "Travel & Places",
+    "meaning": "A clock face showing 6:30. Represents half past six, or a specific meeting time."
+  },
+  {
+    "id": 582,
+    "emoji": "\u1F556",
+    "name": "Seven O'Clock",
+    "category": "Travel & Places",
+    "meaning": "A clock face showing 7:00. Represents seven hours after noon or midnight, often associated with evening activities."
+  },
+  {
+    "id": 583,
+    "emoji": "\u1F562",
+    "name": "Seven-Thirty",
+    "category": "Travel & Places",
+    "meaning": "A clock face showing 7:30. Represents half past seven, or a specific meeting time."
+  },
+  {
+    "id": 584,
+    "emoji": "\u1F557",
+    "name": "Eight O'Clock",
+    "category": "Travel & Places",
+    "meaning": "A clock face showing 8:00. Represents eight hours after noon or midnight, common for evening social gatherings."
+  },
+  {
+    "id": 585,
+    "emoji": "\u1F563",
+    "name": "Eight-Thirty",
+    "category": "Travel & Places",
+    "meaning": "A clock face showing 8:30. Represents half past eight, or a specific meeting time."
+  },
+  {
+    "id": 586,
+    "emoji": "\u1F558",
+    "name": "Nine O'Clock",
+    "category": "Travel & Places",
+    "meaning": "A clock face showing 9:00. Represents nine hours after noon or midnight, often associated with nighttime activities."
+  },
+  {
+    "id": 587,
+    "emoji": "\u1F564",
+    "name": "Nine-Thirty",
+    "category": "Travel & Places",
+    "meaning": "A clock face showing 9:30. Represents half past nine, or a specific meeting time."
+  },
+  {
+    "id": 588,
+    "emoji": "\u1F559",
+    "name": "Ten O'Clock",
+    "category": "Travel & Places",
+    "meaning": "A clock face showing 10:00. Represents ten hours after noon or midnight, often associated with late night activities."
+  },
+  {
+    "id": 589,
+    "emoji": "\u1F565",
+    "name": "Ten-Thirty",
+    "category": "Travel & Places",
+    "meaning": "A clock face showing 10:30. Represents half past ten, or a specific meeting time."
+  },
+  {
+    "id": 590,
+    "emoji": "\u1F55A",
+    "name": "Eleven O'Clock",
+    "category": "Travel & Places",
+    "meaning": "A clock face showing 11:00. Represents eleven hours after noon or midnight, approaching the end of the day or night."
+  },
+  {
+    "id": 591,
+    "emoji": "\u1F566",
+    "name": "Eleven-Thirty",
+    "category": "Travel & Places",
+    "meaning": "A clock face showing 11:30. Represents half past eleven, or a specific meeting time."
+  },
+  {
+    "id": 592,
+    "emoji": "\u1F311",
+    "name": "New Moon",
+    "category": "Travel & Places",
+    "meaning": "A completely dark moon. Represents the beginning of the lunar cycle, new beginnings, or darkness."
+  },
+  {
+    "id": 593,
+    "emoji": "\u1F312",
+    "name": "Waxing Crescent Moon",
+    "category": "Travel & Places",
+    "meaning": "A sliver of moon visible on the right side. Represents growth, the initial phase of development, or emerging potential."
+  },
+  {
+    "id": 594,
+    "emoji": "\u1F313",
+    "name": "First Quarter Moon",
+    "category": "Travel & Places",
+    "meaning": "Half of the moon illuminated on the right side. Represents decision-making, taking action, or overcoming initial obstacles."
+  },
+  {
+    "id": 595,
+    "emoji": "\u1F314",
+    "name": "Waxing Gibbous Moon",
+    "category": "Travel & Places",
+    "meaning": "Most of the moon illuminated with a shadow on the left. Represents refinement, adjustments, or approaching completion."
+  },
+  {
+    "id": 596,
+    "emoji": "\u1F315",
+    "name": "Full Moon",
+    "category": "Travel & Places",
+    "meaning": "A completely illuminated moon. Represents completion, maximum potential, clarity, or heightened emotions."
+  },
+  {
+    "id": 597,
+    "emoji": "\u1F316",
+    "name": "Waning Gibbous Moon",
+    "category": "Travel & Places",
+    "meaning": "Most of the moon illuminated with a shadow on the right. Represents sharing, gratitude, or beginning to release."
+  },
+  {
+    "id": 598,
+    "emoji": "\u1F317",
+    "name": "Last Quarter Moon",
+    "category": "Travel & Places",
+    "meaning": "Half of the moon illuminated on the left side. Represents release, letting go, or transitioning to conclusion."
+  },
+  {
+    "id": 599,
+    "emoji": "\u1F318",
+    "name": "Waning Crescent Moon",
+    "category": "Travel & Places",
+    "meaning": "A sliver of moon visible on the left side. Represents surrender, reflection, or the final phase before renewal."
+  },
+  {
+    "id": 600,
+    "emoji": "\u1F319",
+    "name": "Crescent Moon",
+    "category": "Travel & Places",
+    "meaning": "A stylized crescent moon. Represents night, dreams, or the mystical aspects of darkness."
+  },
+  {
+    "id": 601,
+    "emoji": "\u1F31A",
+    "name": "New Moon Face",
+    "category": "Travel & Places",
+    "meaning": "A dark moon with a face. Represents hidden emotions, mystery, or the unknown aspects of oneself."
+  },
+  {
+    "id": 602,
+    "emoji": "\u1F31B",
+    "name": "First Quarter Moon Face",
+    "category": "Travel & Places",
+    "meaning": "A half moon with a face. Represents partial awareness, developing consciousness, or emerging understanding."
+  },
+  {
+    "id": 603,
+    "emoji": "\u1F31C",
+    "name": "Last Quarter Moon Face",
+    "category": "Travel & Places",
+    "meaning": "A half moon with a face. Represents fading awareness, decreasing energy, or winding down."
+  },
+  {
+    "id": 604,
+    "emoji": "\u1F31D",
+    "name": "Full Moon Face",
+    "category": "Travel & Places",
+    "meaning": "A full moon with a smiling face. Represents complete awareness, illumination, or peak emotional states."
+  },
+  {
+    "id": 605,
+    "emoji": "\u1F31E",
+    "name": "Sun with Face",
+    "category": "Travel & Places",
+    "meaning": "A sun with a smiling face. Represents happiness, warmth, vitality, or enlightenment."
+  },
+  {
+    "id": 606,
+    "emoji": "\u1F31F",
+    "name": "Glowing Star",
+    "category": "Travel & Places",
+    "meaning": "A star with rays of light. Represents inspiration, special moments, or something that stands out as exceptional."
+  },
+  {
+    "id": 607,
+    "emoji": "\u1F320",
+    "name": "Shooting Star",
+    "category": "Travel & Places",
+    "meaning": "A star with a trail of light. Represents wishes, dreams, or fleeting opportunities that should be seized."
+  }
+]

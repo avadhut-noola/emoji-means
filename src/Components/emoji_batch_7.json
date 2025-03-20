@@ -1,0 +1,730 @@
+[
+  {
+    "id": 608,
+    "emoji": "\u{1F321}",
+    "name": "Thermometer",
+    "category": "Travel & Places",
+    "meaning": "A temperature measuring device. Indicates weather conditions, fever, or the metaphorical temperature of a situation."
+  },
+  {
+    "id": 609,
+    "emoji": "\u{1F322}",
+    "name": "Black Droplet",
+    "category": "Travel & Places",
+    "meaning": "A dark water droplet. Represents rain, tears, or a sense of gloominess associated with precipitation."
+  },
+  {
+    "id": 610,
+    "emoji": "\u{1F323}",
+    "name": "White Sun",
+    "category": "Travel & Places",
+    "meaning": "A bright sun with rays. Indicates clear weather, optimism, or enlightenment."
+  },
+  {
+    "id": 611,
+    "emoji": "\u{1F324}",
+    "name": "Sun Behind Small Cloud",
+    "category": "Travel & Places",
+    "meaning": "The sun partially obscured by a small cloud. Represents partly cloudy weather or minor obstacles in an otherwise positive situation."
+  },
+  {
+    "id": 612,
+    "emoji": "\u{1F325}",
+    "name": "Sun Behind Large Cloud",
+    "category": "Travel & Places",
+    "meaning": "The sun largely hidden behind a cloud. Symbolizes mostly cloudy conditions or hope persisting despite significant challenges."
+  },
+  {
+    "id": 613,
+    "emoji": "\u{1F326}",
+    "name": "Sun Behind Rain Cloud",
+    "category": "Travel & Places",
+    "meaning": "The sun peeking from behind a rain cloud. Represents a sun shower, mixed emotions, or finding brightness during difficulties."
+  },
+  {
+    "id": 614,
+    "emoji": "\u{1F327}",
+    "name": "Cloud With Rain",
+    "category": "Travel & Places",
+    "meaning": "A cloud releasing raindrops. Symbolizes rainfall, emotional release, or the cleansing effect of expressing feelings."
+  },
+  {
+    "id": 615,
+    "emoji": "\u{1F328}",
+    "name": "Cloud With Snow",
+    "category": "Travel & Places",
+    "meaning": "A cloud with snowflakes falling from it. Represents snowfall, winter conditions, or a cooling of emotions."
+  },
+  {
+    "id": 616,
+    "emoji": "\u{1F329}",
+    "name": "Cloud With Lightning",
+    "category": "Travel & Places",
+    "meaning": "A cloud with a lightning bolt. Symbolizes thunderstorms, sudden inspiration, or volatile emotions."
+  },
+  {
+    "id": 617,
+    "emoji": "\u{1F32A}",
+    "name": "Tornado",
+    "category": "Travel & Places",
+    "meaning": "A swirling funnel cloud. Represents destructive weather, chaos, or a situation spinning out of control."
+  },
+  {
+    "id": 618,
+    "emoji": "\u{1F32B}",
+    "name": "Fog",
+    "category": "Travel & Places",
+    "meaning": "A cloud of fog. Symbolizes reduced visibility, confusion, or uncertainty about the path ahead."
+  },
+  {
+    "id": 619,
+    "emoji": "\u{1F32C}",
+    "name": "Wind Face",
+    "category": "Travel & Places",
+    "meaning": "A face blowing air. Represents wind, breath, or forceful verbal expression."
+  },
+  {
+    "id": 620,
+    "emoji": "\u{1F32D}",
+    "name": "Hot Dog",
+    "category": "Food & Drink",
+    "meaning": "A frankfurter in a bun. Represents fast food, baseball games, or Americana."
+  },
+  {
+    "id": 621,
+    "emoji": "\u{1F32E}",
+    "name": "Taco",
+    "category": "Food & Drink",
+    "meaning": "A Mexican food item with a folded tortilla. Symbolizes Mexican cuisine, versatility, or holding multiple elements together."
+  },
+  {
+    "id": 622,
+    "emoji": "\u{1F32F}",
+    "name": "Burrito",
+    "category": "Food & Drink",
+    "meaning": "A wrapped Mexican food item. Represents completeness, something with many layers, or a well-contained situation."
+  },
+  {
+    "id": 623,
+    "emoji": "\u{1F330}",
+    "name": "Chestnut",
+    "category": "Food & Drink",
+    "meaning": "A brown nut in its shell. Symbolizes autumn, preparation for winter, or hidden potential."
+  },
+  {
+    "id": 624,
+    "emoji": "\u{1F331}",
+    "name": "Seedling",
+    "category": "Animals & Nature",
+    "meaning": "A young plant sprouting from the ground. Represents new beginnings, growth, or nascent potential."
+  },
+  {
+    "id": 625,
+    "emoji": "\u{1F332}",
+    "name": "Evergreen Tree",
+    "category": "Animals & Nature",
+    "meaning": "A coniferous tree that maintains its foliage year-round. Symbolizes resilience, permanence, or steadfast principles."
+  },
+  {
+    "id": 626,
+    "emoji": "\u{1F333}",
+    "name": "Deciduous Tree",
+    "category": "Animals & Nature",
+    "meaning": "A tree that sheds its leaves seasonally. Represents change, cycles of life, or the ability to adapt to different seasons."
+  },
+  {
+    "id": 627,
+    "emoji": "\u{1F334}",
+    "name": "Palm Tree",
+    "category": "Animals & Nature",
+    "meaning": "A tropical tree with a tall trunk and large leaves at the top. Symbolizes vacations, relaxation, or tropical climates."
+  },
+  {
+    "id": 628,
+    "emoji": "\u{1F335}",
+    "name": "Cactus",
+    "category": "Animals & Nature",
+    "meaning": "A desert plant with spines. Represents resilience in harsh conditions, personal boundaries, or survival despite scarcity."
+  },
+  {
+    "id": 629,
+    "emoji": "\u{1F336}",
+    "name": "Hot Pepper",
+    "category": "Food & Drink",
+    "meaning": "A red chili pepper. Symbolizes spiciness, heat in conversation, or adding excitement to a situation."
+  },
+  {
+    "id": 630,
+    "emoji": "\u{1F337}",
+    "name": "Tulip",
+    "category": "Animals & Nature",
+    "meaning": "A flowering plant with cup-shaped blooms. Represents spring, perfect love, or the transient nature of beauty."
+  },
+  {
+    "id": 631,
+    "emoji": "\u{1F338}",
+    "name": "Cherry Blossom",
+    "category": "Animals & Nature",
+    "meaning": "A pink flower of the cherry tree. Symbolizes spring, the transience of life, or Japanese culture."
+  },
+  {
+    "id": 632,
+    "emoji": "\u{1F339}",
+    "name": "Rose",
+    "category": "Animals & Nature",
+    "meaning": "A red flower with thorns. Represents love, passion, or beauty that comes with complexity."
+  },
+  {
+    "id": 633,
+    "emoji": "\u{1F33A}",
+    "name": "Hibiscus",
+    "category": "Animals & Nature",
+    "meaning": "A tropical flower with large petals. Symbolizes delicate beauty, exotic locations, or rare opportunities."
+  },
+  {
+    "id": 634,
+    "emoji": "\u{1F33B}",
+    "name": "Sunflower",
+    "category": "Animals & Nature",
+    "meaning": "A tall yellow flower that tracks the sun. Represents adoration, loyalty, or seeking light in darkness."
+  },
+  {
+    "id": 635,
+    "emoji": "\u{1F33C}",
+    "name": "Blossom",
+    "category": "Animals & Nature",
+    "meaning": "A small flower with multiple petals. Symbolizes fertility, new opportunities, or the flourishing of ideas."
+  },
+  {
+    "id": 636,
+    "emoji": "\u{1F33D}",
+    "name": "Ear of Corn",
+    "category": "Food & Drink",
+    "meaning": "A cob of corn with husk. Represents harvest, abundance, or agricultural prosperity."
+  },
+  {
+    "id": 637,
+    "emoji": "\u{1F33E}",
+    "name": "Sheaf of Rice",
+    "category": "Food & Drink",
+    "meaning": "A bundle of rice stalks. Symbolizes harvest, sustenance, or the fruits of labor."
+  },
+  {
+    "id": 638,
+    "emoji": "\u{1F33F}",
+    "name": "Herb",
+    "category": "Food & Drink",
+    "meaning": "A leafy plant used for culinary or medicinal purposes. Represents healing, freshness, or natural remedies."
+  },
+  {
+    "id": 639,
+    "emoji": "\u{1F340}",
+    "name": "Four Leaf Clover",
+    "category": "Animals & Nature",
+    "meaning": "A rare variation of the three-leaf clover. Symbolizes good luck, fortune, or an exceptional occurrence."
+  },
+  {
+    "id": 640,
+    "emoji": "\u{1F341}",
+    "name": "Maple Leaf",
+    "category": "Animals & Nature",
+    "meaning": "A red leaf from a maple tree. Represents Canada, autumn, or the beauty of natural change."
+  },
+  {
+    "id": 641,
+    "emoji": "\u{1F342}",
+    "name": "Fallen Leaf",
+    "category": "Animals & Nature",
+    "meaning": "A brown leaf that has fallen from a tree. Symbolizes autumn, letting go, or the natural cycle of endings."
+  },
+  {
+    "id": 642,
+    "emoji": "\u{1F343}",
+    "name": "Leaf Fluttering in Wind",
+    "category": "Animals & Nature",
+    "meaning": "A green leaf being blown by the wind. Represents change, movement, or going with the flow of life."
+  },
+  {
+    "id": 643,
+    "emoji": "\u{1F344}",
+    "name": "Mushroom",
+    "category": "Food & Drink",
+    "meaning": "An edible fungus with a stem and cap. Symbolizes quick growth, hidden networks, or magical transformation."
+  },
+  {
+    "id": 644,
+    "emoji": "\u{1F345}",
+    "name": "Tomato",
+    "category": "Food & Drink",
+    "meaning": "A round red fruit/vegetable. Represents versatility, fullness, or the blurred line between technical categories."
+  },
+  {
+    "id": 645,
+    "emoji": "\u{1F346}",
+    "name": "Eggplant",
+    "category": "Food & Drink",
+    "meaning": "A purple vegetable with an oblong shape. Symbolizes Mediterranean cuisine, abundance, or innuendo in digital communication."
+  },
+  {
+    "id": 646,
+    "emoji": "\u{1F347}",
+    "name": "Grapes",
+    "category": "Food & Drink",
+    "meaning": "A bunch of purple grapes. Represents wine, abundance, or the rewards of patience."
+  },
+  {
+    "id": 647,
+    "emoji": "\u{1F348}",
+    "name": "Melon",
+    "category": "Food & Drink",
+    "meaning": "A green melon with distinctive patterned rind. Symbolizes summer refreshment, sweetness, or hidden delights."
+  },
+  {
+    "id": 648,
+    "emoji": "\u{1F349}",
+    "name": "Watermelon",
+    "category": "Food & Drink",
+    "meaning": "A slice of watermelon with red flesh and black seeds. Represents summer, refreshment, or sharing joy with others."
+  },
+  {
+    "id": 649,
+    "emoji": "\u{1F34A}",
+    "name": "Tangerine",
+    "category": "Food & Drink",
+    "meaning": "A small citrus fruit with orange skin. Symbolizes sweetness, small but potent gifts, or good fortune."
+  },
+  {
+    "id": 650,
+    "emoji": "\u{1F34B}",
+    "name": "Lemon",
+    "category": "Food & Drink",
+    "meaning": "A yellow citrus fruit. Represents tartness, cleansing, or making the best of sour situations."
+  },
+  {
+    "id": 651,
+    "emoji": "\u{1F34C}",
+    "name": "Banana",
+    "category": "Food & Drink",
+    "meaning": "A yellow curved fruit. Symbolizes nutrition, comedic potential, or practical convenience."
+  },
+  {
+    "id": 652,
+    "emoji": "\u{1F34D}",
+    "name": "Pineapple",
+    "category": "Food & Drink",
+    "meaning": "A tropical fruit with a spiky exterior and sweet interior. Represents hospitality, warmth, or complexity hiding sweetness."
+  },
+  {
+    "id": 653,
+    "emoji": "\u{1F34E}",
+    "name": "Red Apple",
+    "category": "Food & Drink",
+    "meaning": "A shiny red apple. Symbolizes health, temptation, or fundamental knowledge."
+  },
+  {
+    "id": 654,
+    "emoji": "\u{1F34F}",
+    "name": "Green Apple",
+    "category": "Food & Drink",
+    "meaning": "A green apple. Represents freshness, tartness, or a different approach to common situations."
+  },
+  {
+    "id": 655,
+    "emoji": "\u{1F350}",
+    "name": "Pear",
+    "category": "Food & Drink",
+    "meaning": "A yellow-green fruit with a distinctive shape. Symbolizes sweetness, curves, or patient ripening."
+  },
+  {
+    "id": 656,
+    "emoji": "\u{1F351}",
+    "name": "Peach",
+    "category": "Food & Drink",
+    "meaning": "A soft, fuzzy fruit with pink-orange skin. Represents sweetness, sensuality, or the delicate nature of certain situations."
+  },
+  {
+    "id": 657,
+    "emoji": "\u{1F352}",
+    "name": "Cherries",
+    "category": "Food & Drink",
+    "meaning": "A pair of red cherries attached by their stems. Symbolizes partnership, sweetness, or rewards that come in pairs."
+  },
+  {
+    "id": 658,
+    "emoji": "\u{1F353}",
+    "name": "Strawberry",
+    "category": "Food & Drink",
+    "meaning": "A red berry with small seeds on its surface. Represents sweetness, summer, or perfect moments."
+  },
+  {
+    "id": 659,
+    "emoji": "\u{1F354}",
+    "name": "Hamburger",
+    "category": "Food & Drink",
+    "meaning": "A sandwich with a meat patty and toppings. Symbolizes fast food, indulgence, or American cuisine."
+  },
+  {
+    "id": 660,
+    "emoji": "\u{1F355}",
+    "name": "Pizza",
+    "category": "Food & Drink",
+    "meaning": "A slice of pizza with toppings. Represents sharing, casual gatherings, or universally loved food."
+  },
+  {
+    "id": 661,
+    "emoji": "\u{1F356}",
+    "name": "Meat on Bone",
+    "category": "Food & Drink",
+    "meaning": "A piece of cooked meat on a bone. Symbolizes primal satisfaction, feasting, or substantial nourishment."
+  },
+  {
+    "id": 662,
+    "emoji": "\u{1F357}",
+    "name": "Poultry Leg",
+    "category": "Food & Drink",
+    "meaning": "A cooked chicken drumstick. Represents protein, casual dining, or hand-held food."
+  },
+  {
+    "id": 663,
+    "emoji": "\u{1F358}",
+    "name": "Rice Cracker",
+    "category": "Food & Drink",
+    "meaning": "A Japanese rice cracker. Symbolizes savory snacks, Asian cuisine, or light refreshments."
+  },
+  {
+    "id": 664,
+    "emoji": "\u{1F359}",
+    "name": "Rice Ball",
+    "category": "Food & Drink",
+    "meaning": "A Japanese onigiri rice ball wrapped in seaweed. Represents convenience, Japanese cuisine, or portable nourishment."
+  },
+  {
+    "id": 665,
+    "emoji": "\u{1F35A}",
+    "name": "Cooked Rice",
+    "category": "Food & Drink",
+    "meaning": "A bowl of steamed white rice. Symbolizes staple food, simplicity, or the foundation of a meal."
+  },
+  {
+    "id": 666,
+    "emoji": "\u{1F35B}",
+    "name": "Curry Rice",
+    "category": "Food & Drink",
+    "meaning": "A plate of rice with curry sauce. Represents spicy comfort food, cultural fusion, or warming satisfaction."
+  },
+  {
+    "id": 667,
+    "emoji": "\u{1F35C}",
+    "name": "Steaming Bowl",
+    "category": "Food & Drink",
+    "meaning": "A bowl with steam rising from it. Symbolizes hot food, comfort, or immediate nourishment."
+  },
+  {
+    "id": 668,
+    "emoji": "\u{1F35D}",
+    "name": "Spaghetti",
+    "category": "Food & Drink",
+    "meaning": "A plate of pasta with tomato sauce. Represents Italian cuisine, comfort food, or tangled situations."
+  },
+  {
+    "id": 669,
+    "emoji": "\u{1F35E}",
+    "name": "Bread",
+    "category": "Food & Drink",
+    "meaning": "A loaf of bread. Symbolizes basic sustenance, breaking bread with others, or the essentials of life."
+  },
+  {
+    "id": 670,
+    "emoji": "\u{1F35F}",
+    "name": "French Fries",
+    "category": "Food & Drink",
+    "meaning": "A container of fried potato sticks. Represents fast food, indulgence, or universally loved sides."
+  },
+  {
+    "id": 671,
+    "emoji": "\u{1F360}",
+    "name": "Roasted Sweet Potato",
+    "category": "Food & Drink",
+    "meaning": "A baked or roasted sweet potato. Symbolizes comfort food, autumn, or healthy alternatives."
+  },
+  {
+    "id": 672,
+    "emoji": "\u{1F361}",
+    "name": "Dango",
+    "category": "Food & Drink",
+    "meaning": "Japanese dumpling skewers. Represents Japanese cuisine, sweet treats, or festive occasions."
+  },
+  {
+    "id": 673,
+    "emoji": "\u{1F362}",
+    "name": "Oden",
+    "category": "Food & Drink",
+    "meaning": "Japanese winter dish with various ingredients in broth. Symbolizes comfort food, winter warmth, or communal dining."
+  },
+  {
+    "id": 674,
+    "emoji": "\u{1F363}",
+    "name": "Sushi",
+    "category": "Food & Drink",
+    "meaning": "A piece of Japanese nigiri sushi. Represents Japanese cuisine, precision, or the art of simplicity."
+  },
+  {
+    "id": 675,
+    "emoji": "\u{1F364}",
+    "name": "Fried Shrimp",
+    "category": "Food & Drink",
+    "meaning": "A breaded and fried shrimp. Symbolizes seafood, indulgence, or special occasion dining."
+  },
+  {
+    "id": 676,
+    "emoji": "\u{1F365}",
+    "name": "Fish Cake with Swirl",
+    "category": "Food & Drink",
+    "meaning": "A Japanese fish cake with a pink swirl. Represents Japanese cuisine, traditional foods, or decorative food art."
+  },
+  {
+    "id": 677,
+    "emoji": "\u{1F366}",
+    "name": "Soft Ice Cream",
+    "category": "Food & Drink",
+    "meaning": "A swirl of soft-serve ice cream in a cone. Symbolizes summer treats, temporary pleasures, or simple joys."
+  },
+  {
+    "id": 678,
+    "emoji": "\u{1F367}",
+    "name": "Shaved Ice",
+    "category": "Food & Drink",
+    "meaning": "A cup of shaved ice with flavored syrup. Represents summer refreshment, childhood nostalgia, or cooling treats."
+  },
+  {
+    "id": 679,
+    "emoji": "\u{1F368}",
+    "name": "Ice Cream",
+    "category": "Food & Drink",
+    "meaning": "A scoop of ice cream in a dish. Symbolizes dessert, comfort, or rewarding oneself."
+  },
+  {
+    "id": 680,
+    "emoji": "\u{1F369}",
+    "name": "Doughnut",
+    "category": "Food & Drink",
+    "meaning": "A ring-shaped fried dough with pink glaze. Represents sweet indulgence, breakfast treats, or circular completeness."
+  },
+  {
+    "id": 681,
+    "emoji": "\u{1F36A}",
+    "name": "Cookie",
+    "category": "Food & Drink",
+    "meaning": "A chocolate chip cookie. Symbolizes comfort food, childhood memories, or small rewards."
+  },
+  {
+    "id": 682,
+    "emoji": "\u{1F36B}",
+    "name": "Chocolate Bar",
+    "category": "Food & Drink",
+    "meaning": "A bar of chocolate with segments. Represents sweet treats, indulgence, or a mood booster."
+  },
+  {
+    "id": 683,
+    "emoji": "\u{1F36C}",
+    "name": "Candy",
+    "category": "Food & Drink",
+    "meaning": "A wrapped piece of hard candy. Symbolizes sweet rewards, childhood, or small pleasures."
+  },
+  {
+    "id": 684,
+    "emoji": "\u{1F36D}",
+    "name": "Lollipop",
+    "category": "Food & Drink",
+    "meaning": "A swirl-patterned candy on a stick. Represents childhood treats, simple pleasures, or long-lasting sweetness."
+  },
+  {
+    "id": 685,
+    "emoji": "\u{1F36E}",
+    "name": "Custard",
+    "category": "Food & Drink",
+    "meaning": "A creamy dessert in a cup. Symbolizes smooth indulgence, comfort food, or delicate sweetness."
+  },
+  {
+    "id": 686,
+    "emoji": "\u{1F36F}",
+    "name": "Honey Pot",
+    "category": "Food & Drink",
+    "meaning": "A pot of golden honey. Represents natural sweetness, rewards for effort, or the fruits of collective labor."
+  },
+  {
+    "id": 687,
+    "emoji": "\u{1F370}",
+    "name": "Shortcake",
+    "category": "Food & Drink",
+    "meaning": "A slice of cake with strawberries and cream. Symbolizes celebration, special occasions, or sweet indulgence."
+  },
+  {
+    "id": 688,
+    "emoji": "\u{1F371}",
+    "name": "Bento Box",
+    "category": "Food & Drink",
+    "meaning": "A Japanese lunch box with compartments. Represents organization, meal planning, or Japanese cuisine."
+  },
+  {
+    "id": 689,
+    "emoji": "\u{1F372}",
+    "name": "Pot of Food",
+    "category": "Food & Drink",
+    "meaning": "A cooking pot with steam rising. Symbolizes home cooking, comfort food, or shared meals."
+  },
+  {
+    "id": 690,
+    "emoji": "\u{1F373}",
+    "name": "Cooking",
+    "category": "Food & Drink",
+    "meaning": "A frying pan with an egg. Represents cooking, breakfast, or culinary skills."
+  },
+  {
+    "id": 691,
+    "emoji": "\u{1F374}",
+    "name": "Fork and Knife",
+    "category": "Food & Drink",
+    "meaning": "Cutlery for eating. Symbolizes dining, meals, or being ready to consume something."
+  },
+  {
+    "id": 692,
+    "emoji": "\u{1F375}",
+    "name": "Teacup Without Handle",
+    "category": "Food & Drink",
+    "meaning": "A traditional Asian teacup. Represents tea culture, relaxation, or mindful drinking."
+  },
+  {
+    "id": 693,
+    "emoji": "\u{1F376}",
+    "name": "Sake",
+    "category": "Food & Drink",
+    "meaning": "A bottle and cup of Japanese rice wine. Symbolizes Japanese culture, celebration, or traditional drinks."
+  },
+  {
+    "id": 694,
+    "emoji": "\u{1F377}",
+    "name": "Wine Glass",
+    "category": "Food & Drink",
+    "meaning": "A glass of red wine. Represents sophistication, celebration, or unwinding after a long day."
+  },
+  {
+    "id": 695,
+    "emoji": "\u{1F378}",
+    "name": "Cocktail Glass",
+    "category": "Food & Drink",
+    "meaning": "A martini glass with a cocktail. Symbolizes celebrations, social drinking, or sophisticated gatherings."
+  },
+  {
+    "id": 696,
+    "emoji": "\u{1F379}",
+    "name": "Tropical Drink",
+    "category": "Food & Drink",
+    "meaning": "A colorful drink with fruit and a straw. Represents vacations, relaxation, or carefree enjoyment."
+  },
+  {
+    "id": 697,
+    "emoji": "\u{1F37A}",
+    "name": "Beer Mug",
+    "category": "Food & Drink",
+    "meaning": "A foaming mug of beer. Symbolizes casual celebration, relaxation, or social gatherings."
+  },
+  {
+    "id": 698,
+    "emoji": "\u{1F37B}",
+    "name": "Clinking Beer Mugs",
+    "category": "Food & Drink",
+    "meaning": "Two beer mugs touching in a toast. Represents celebration, camaraderie, or shared achievements."
+  },
+  {
+    "id": 699,
+    "emoji": "\u{1F37C}",
+    "name": "Baby Bottle",
+    "category": "Food & Drink",
+    "meaning": "A bottle with milk for feeding infants. Symbolizes nurturing, infancy, or basic needs."
+  },
+  {
+    "id": 700,
+    "emoji": "\u{1F37D}",
+    "name": "Fork and Knife with Plate",
+    "category": "Food & Drink",
+    "meaning": "Cutlery with a plate. Represents dining, prepared meals, or restaurant settings."
+  },
+  {
+    "id": 701,
+    "emoji": "\u{1F37E}",
+    "name": "Bottle with Popping Cork",
+    "category": "Food & Drink",
+    "meaning": "A champagne bottle with cork popping. Symbolizes celebration, achievements, or special occasions."
+  },
+  {
+    "id": 702,
+    "emoji": "\u{1F37F}",
+    "name": "Popcorn",
+    "category": "Food & Drink",
+    "meaning": "A container of popped corn. Represents movies, entertainment, or casual snacking."
+  },
+  {
+    "id": 703,
+    "emoji": "\u{1F380}",
+    "name": "Ribbon",
+    "category": "Activities",
+    "meaning": "A decorative tied ribbon. Symbolizes gifts, celebration, or commemorating special moments."
+  },
+  {
+    "id": 704,
+    "emoji": "\u{1F381}",
+    "name": "Wrapped Gift",
+    "category": "Activities",
+    "meaning": "A box wrapped with ribbon. Represents presents, generosity, or special occasions."
+  },
+  {
+    "id": 705,
+    "emoji": "\u{1F382}",
+    "name": "Birthday Cake",
+    "category": "Food & Drink",
+    "meaning": "A cake with lit candles. Symbolizes birthdays, celebration, or marking another year of life."
+  },
+  {
+    "id": 706,
+    "emoji": "\u{1F383}",
+    "name": "Jack-O-Lantern",
+    "category": "Activities",
+    "meaning": "A carved pumpkin with a face. Represents Halloween, autumn, or spooky fun."
+  },
+  {
+    "id": 707,
+    "emoji": "\u{1F384}",
+    "name": "Christmas Tree",
+    "category": "Activities",
+    "meaning": "An evergreen tree decorated for Christmas. Symbolizes the holiday season, celebration, or winter festivities."
+  },
+  {
+    "id": 708,
+    "emoji": "\u{1F385}",
+    "name": "Santa Claus",
+    "category": "People & Body",
+    "meaning": "A jolly figure in red with a white beard. Represents Christmas, gift-giving, or holiday magic."
+  },
+  {
+    "id": 709,
+    "emoji": "\u{1F386}",
+    "name": "Fireworks",
+    "category": "Activities",
+    "meaning": "Exploding fireworks in the sky. Symbolizes celebration, achievements, or spectacular moments."
+  },
+  {
+    "id": 710,
+    "emoji": "\u{1F387}",
+    "name": "Sparkler",
+    "category": "Activities",
+    "meaning": "A handheld firework emitting sparks. Represents celebration, momentary brilliance, or festive occasions."
+  },
+  {
+    "id": 711,
+    "emoji": "\u{1F388}",
+    "name": "Balloon",
+    "category": "Activities",
+    "meaning": "A colorful inflated balloon. Symbolizes celebrations, childhood joy, or lifting spirits."
+  }
+]
