@@ -1,0 +1,50 @@
+/* Styling for CategorizeEmoji component */
+
+/* Container styling */
+.categorize-emoji-container {
+    text-align: center;
+    padding: 20px;
+}
+
+/* Dropdown styling */
+#category-select {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin: 10px 0;
+    cursor: pointer;
+}
+
+/* Dictionary (emoji list) styling */
+.dictionary {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+/* Individual entry styling */
+.term {
+    background: #f9f9f9;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    width: 200px;
+    text-align: center;
+}
+
+.term .emoji {
+    font-size: 2rem;
+}
+
+.term dt {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.term dd {
+    font-size: 14px;
+    color: #666;
+}
