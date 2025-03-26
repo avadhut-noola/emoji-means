@@ -16,6 +16,7 @@ function CategorizeEmoji() {
 
   return (
     <div>
+      <div className="category-select-wrapper">
       {/* Dropdown to select emoji category */}
       <label htmlFor="category-select">Filter by Category: </label>
       <select
@@ -29,6 +30,7 @@ function CategorizeEmoji() {
           </option>
         ))}
       </select>
+      </div> 
 
       {/* Display the filtered emoji list */}
       <dl className="dictionary">
