@@ -36,9 +36,6 @@ function EmojiSearch() {
           </div>
         </div>
       )}
-
-      {/* Full Emoji List will be loaded in App.jsx*/}
-      <h2 className="section-title">All Emojis 😃</h2>
     </div>
   );
 }
