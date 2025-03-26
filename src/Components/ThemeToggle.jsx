@@ -1,5 +1,5 @@
 import React from "react";
-import "./ThemeToggle.css"; // Styles for toggle theme mode
+import "./Styles/ThemeToggle.css"; // Styles for toggle theme mode
 
 function ThemeToggle({ theme, toggleTheme }) {
     return (

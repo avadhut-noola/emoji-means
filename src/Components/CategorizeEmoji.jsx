@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import emojipedia from "./emojipedia";
 import Entry from "./Entry";
-import "./CategorizeEmoji.css";
+import "./Styles/CategorizeEmoji.css";
 
 function CategorizeEmoji() {
   const [selectedCategory, setSelectedCategory] = useState("All");
