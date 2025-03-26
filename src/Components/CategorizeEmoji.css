@@ -1,9 +1,24 @@
 /* Styling for CategorizeEmoji component */
 
-/* Container styling */
-.categorize-emoji-container {
-    text-align: center;
-    padding: 20px;
+/* Wrapper to center the label and dropdown */
+.category-select-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    /* Spacing between label and dropdown */
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto 20px auto;
+}
+
+/* Label styling */
+.category-select-wrapper label {
+    font-size: 16px;
+    font-weight: normal;
+    color: var(--dropdown-text, #000);
+    display: flex;
+    align-items: center;
 }
 
 /* Dropdown styling */
@@ -11,40 +26,46 @@
     padding: 10px;
     font-size: 16px;
     border-radius: 5px;
-    border: 1px solid #ccc;
-    margin: 10px 0;
+    border: 2px solid #5C6BC0;
     cursor: pointer;
-}
-
-/* Dictionary (emoji list) styling */
-.dictionary {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 20px;
-    padding: 20px;
-}
-
-/* Individual entry styling */
-.term {
-    background: #f9f9f9;
-    padding: 15px;
-    border-radius: 10px;
-    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
-    width: 200px;
+    transition: background-color 0.3s ease-in-out;
+    background-color: var(--dropdown-bg, #fff);
+    color: var(--dropdown-text, #000);
+    min-width: 250px;
     text-align: center;
 }
 
-.term .emoji {
-    font-size: 2rem;
+#category-select:hover {
+    background-color: var(--dropdown-hover-bg, #e0e0e0);
 }
 
-.term dt {
-    font-weight: bold;
-    margin-top: 10px;
+/* Theme-based styling */
+[data-theme="dark"] {
+    --dropdown-bg: #444;
+    --dropdown-text: #fff;
+    --dropdown-hover-bg: #666;
 }
 
-.term dd {
-    font-size: 14px;
-    color: #666;
+[data-theme="light"] {
+    --dropdown-bg: #fff;
+    --dropdown-text: #000;
+    --dropdown-hover-bg: #e0e0e0;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    .category-select-wrapper {
+        flex-direction: column;
+        gap: 5px;
+    }
+
+    #category-select {
+        min-width: 200px;
+    }
+}
+
+@media (max-width: 480px) {
+    #category-select {
+        min-width: 180px;
+    }
 }
