@@ -25,7 +25,7 @@ function App() {
       <ThemeToggle theme={theme} toggleTheme={toggleTheme} />
 
       <h1> <span> EmojiMeans </span> </h1>
-      <p class="credit">
+      <p className="credit">
         Created by <a href="https://www.linkedin.com/in/avadhut-noola/" target="_blank">Avadhut Noola</a> ❤️
       </p>
       <EmojiSearch />
