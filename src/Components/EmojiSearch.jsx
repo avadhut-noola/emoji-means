@@ -1,5 +1,5 @@
 import { useState } from "react";
-import emojipedia from "./emojipedia";
+import emojipedia from "../Components/emojipedia.json";
 import Entry from "./Entry";
 
 function EmojiSearch() {
