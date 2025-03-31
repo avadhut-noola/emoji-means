@@ -13,11 +13,21 @@ h1 {
   margin-top: 4rem;
   color: #fff;
   line-height: 1.2;
+  
+  font-weight: 900;
+  font-size: 500%;
+  text-align: center;
+  margin-top: 4rem;
+  color: #fff;
+  text-transform: uppercase;
+  text-shadow: 0 0 10px #2ec2b0, 0 0 20px #2ec2b0, 0 0 30px #2ec2b0;
 }
 
 h1 span {
-  padding: 5px 15px;
-  background: #2ec2b0;
+  padding: 0;
+  background: none;
+  color: inherit;
+  box-shadow: none;
 }
 
 .dictionary {
@@ -149,6 +159,17 @@ body[data-theme="light"] {
 body[data-theme="dark"] {
   background: #1e1e1e;
   color: #fff;
+}
+
+/* Main title neon title update */
+body[data-theme="light"] h1.main-title {
+  color: #147a99 66d3ff;
+  text-shadow: 0 0 5px #1fb6e0, 0 0 10px #33c5f4, 0 0 15px #66d3ff;
+}
+
+body[data-theme="dark"] h1.main-title {
+  color: #fff;
+  text-shadow: 0 0 10px #2ec2b0, 0 0 20px #2ec2b0, 0 0 40px #2ec2b0;
 }
 
 /* Emoji Cards */
