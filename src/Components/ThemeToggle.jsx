@@ -1,7 +1,20 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import "./Styles/ThemeToggle.css"; // Styles for toggle theme mode
 
-function ThemeToggle({ theme, toggleTheme }) {
+function ThemeToggle() {
+      // Set default theme to dark
+      const [theme, setTheme] = useState("dark");
+    
+      const toggleTheme = () => {
+        const newTheme = theme === "light" ? "dark" : "light";
+        setTheme(newTheme);
+      };
+
+    // Apply theme to document body
+    useEffect(() => {
+      document.body.className = theme;
+    }, [theme]);
+
     return (
       <div className="toggle-container">
         <button
