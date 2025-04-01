@@ -19,7 +19,7 @@ function EmojiSearch() {
         <input
           type="text"
           className="search-bar"
-          placeholder="Search by emoji, name or meaning"
+          placeholder="Search by emoji or name"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
         />
@@ -29,10 +29,23 @@ function EmojiSearch() {
       {query && (
         <div>
           <h2 className="section-title">Search Results 🔍</h2>
-          <div className="dictionary">
-            {filteredEmojis.map(emoji => (
-              <Entry key={emoji.id} emoji={emoji.emoji} name={emoji.name} meaning={emoji.meaning} />
-            ))}
+          {/* Search results container */}
+          <div className="search-results">
+            {filteredEmojis.length > 0 ? (
+              filteredEmojis.map(emoji => (
+                <div key={emoji.id} className="term">
+                  <dt>
+                    <span className="emoji" role="img" aria-label={emoji.name}>
+                      {emoji.emoji}
+                    </span>
+                    <span>{emoji.name}</span>
+                  </dt>
+                  <dd>{emoji.meaning}</dd>
+                </div>
+              ))
+            ) : (
+              <p className="no-results">No emojis found for "{query}"</p>
+            )}
           </div>
         </div>
       )}
