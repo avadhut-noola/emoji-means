@@ -8,6 +8,8 @@ import CategorizeEmoji from "./Components/CategorizeEmoji";
 function App() {
   // Load theme from localStorage or default to "dark"
   const [theme, setTheme] = useState(() => localStorage.getItem("theme") || "dark");
+  // Lift the category state up to App
+  const [selectedCategory, setSelectedCategory] = useState("All");
 
   useEffect(() => {
     // Apply theme to both body and documentElement
@@ -34,8 +36,28 @@ function App() {
       <p className="credit">
         Created by <a href="https://www.linkedin.com/in/avadhut-noola/" target="_blank">Avadhut Noola</a> ❤️
       </p>
-      <EmojiSearch />
-      <CategorizeEmoji />
+      
+      {/* Create a wrapper for filter and search controls */}
+      <div className="emoji-controls">
+        {/* Extract just the category filter from CategorizeEmoji */}
+        <div className="category-select-wrapper">
+          <CategorizeEmoji 
+            showEmojiList={false}
+            selectedCategory={selectedCategory}
+            setSelectedCategory={setSelectedCategory}
+          />
+        </div>
+        
+        {/* Search component */}
+        <EmojiSearch />
+      </div>
+      
+      {/* Emoji list display */}
+      <CategorizeEmoji 
+        showFilterControls={false}
+        selectedCategory={selectedCategory}
+        setSelectedCategory={setSelectedCategory}
+      />
     </>
   )
 }

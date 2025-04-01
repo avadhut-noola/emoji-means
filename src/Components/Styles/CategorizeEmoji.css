@@ -1,57 +1,47 @@
 /* Styling for CategorizeEmoji component */
 
-/* Wrapper to center the label and dropdown */
-.category-select-wrapper {
+/* Add this to your App.css file */
+.emoji-controls {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px auto;
+    width: 100%;
+    max-width: 500px;
+  }
+  
+  /* Update existing styles */
+  .category-select-wrapper {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 10px;
-    /* Spacing between label and dropdown */
+    margin: 10px auto 20px;
     width: 100%;
-    max-width: 400px;
-    margin: 0 auto 20px auto;
-}
-
-/* Label styling */
-.category-select-wrapper label {
-    font-size: 16px;
-    font-weight: normal;
-    color: var(--dropdown-text, #000);
-    display: flex;
-    align-items: center;
-}
-
-/* Dropdown styling */
-#category-select {
+  }
+  
+  #category-select {
     padding: 10px;
-    font-size: 16px;
-    border-radius: 5px;
+    border-radius: 20px;
     border: 2px solid #5C6BC0;
-    cursor: pointer;
-    transition: background-color 0.3s ease-in-out;
-    background-color: var(--dropdown-bg, #fff);
-    color: var(--dropdown-text, #000);
-    min-width: 250px;
-    text-align: center;
-}
-
-#category-select:hover {
-    background-color: var(--dropdown-hover-bg, #e0e0e0);
-}
-
-/* Theme-based styling */
-[data-theme="dark"] {
-    --dropdown-bg: #444;
-    --dropdown-text: #fff;
-    --dropdown-hover-bg: #666;
-}
-
-[data-theme="light"] {
-    --dropdown-bg: #fff;
-    --dropdown-text: #000;
-    --dropdown-hover-bg: #e0e0e0;
-}
-
+    margin-left: 10px;
+    outline: none;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  body[data-theme="dark"] #category-select {
+    background-color: #2a2a2a;
+    color: #fff;
+    border-color: #9B51E0;
+  }
+  
+  body[data-theme="dark"] #category-select:focus {
+    border-color: #FFD700;
+  }
+  
+  #category-select:focus {
+    border-color: #00AEEF;
+    box-shadow: 0 0 10px rgba(155, 81, 224, 0.5);
+  }
 /* Responsive Adjustments */
 @media (max-width: 768px) {
     .category-select-wrapper {
