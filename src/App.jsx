@@ -6,11 +6,17 @@ import ThemeToggle from "./Components/ThemeToggle";
 import CategorizeEmoji from "./Components/CategorizeEmoji";
 
 function App() {
-  // Load theme from localStorage or default to "light"
-  const [theme, setTheme] = useState(() => localStorage.getItem("theme") || "light");
+  // Load theme from localStorage or default to "dark"
+  const [theme, setTheme] = useState(() => localStorage.getItem("theme") || "dark");
 
   useEffect(() => {
-    document.body.dataset.theme = theme;
+    // Apply theme to both body and documentElement
+    document.body.setAttribute("data-theme", theme);
+    document.documentElement.classList.remove("light", "dark");
+    document.documentElement.classList.add(theme);
+    document.documentElement.setAttribute("data-theme", theme);
+
+    // Save to localStorage
     localStorage.setItem("theme", theme);
   }, [theme]);
 
@@ -24,7 +30,7 @@ function App() {
     <>
       <ThemeToggle theme={theme} toggleTheme={toggleTheme} />
 
-      <h1 class="main-title"> <span> EmojiMeans </span> </h1>
+      <h1 className="main-title"> <span> EmojiMeans </span> </h1>
       <p className="credit">
         Created by <a href="https://www.linkedin.com/in/avadhut-noola/" target="_blank">Avadhut Noola</a> ❤️
       </p>
