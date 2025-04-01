@@ -6,6 +6,7 @@
     display: flex;
     align-items: center;
     gap: 10px;
+    z-index: 100;
   }
   
   /* Toggle Label (Light/Dark Text) */
@@ -93,3 +94,70 @@
     transform: translateY(0);
     opacity: 1;
   }
+
+  /* Responsive styles */
+@media (max-width: 1024px) {
+  .toggle-container {
+    top: 16px;
+    right: 16px;
+  }
+}
+
+@media (max-width: 768px) {
+  .toggle-container {
+    top: 12px;
+    right: 12px;
+  }
+  
+  .theme-toggle-button {
+    width: 100px;
+    height: 32px;
+  }
+  
+  .mode-text {
+    font-size: 10px;
+  }
+  
+  .icon {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 480px) {
+  .toggle-container {
+    top: 10px;
+    right: 10px;
+  }
+  
+  .theme-toggle-button {
+    width: 36px; /* Just enough for the icon */
+    height: 36px;
+    border-radius: 50%; /* Make it circular */
+  }
+  
+  .mode-text {
+    display: none; /* Hide text on small screens */
+  }
+  
+  .icon {
+    font-size: 14px;
+    margin-right: 0; /* Remove margin since text is hidden */
+  }
+  
+  /* Adjust icon positioning for circular button */
+  .theme-toggle-button.light .light-mode,
+  .theme-toggle-button.dark .dark-mode {
+    justify-content: center;
+  }
+  
+  /* Vertical animation for icons in small circular button */
+  .theme-toggle-button.light .dark-mode {
+    transform: translateY(40px) translateX(0);
+    opacity: 0;
+  }
+  
+  .theme-toggle-button.dark .light-mode {
+    transform: translateY(-40px) translateX(0);
+    opacity: 0;
+  }
+}
