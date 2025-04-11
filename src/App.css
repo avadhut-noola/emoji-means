@@ -12,13 +12,6 @@ h1 {
   text-align: center;
   margin-top: 4rem;
   color: #fff;
-  line-height: 1.2;
-  
-  font-weight: 900;
-  font-size: 500%;
-  text-align: center;
-  margin-top: 4rem;
-  color: #fff;
   text-transform: uppercase;
   text-shadow: 0 0 10px #2ec2b0, 0 0 20px #2ec2b0, 0 0 30px #2ec2b0;
 }
@@ -30,7 +23,7 @@ h1 span {
   box-shadow: none;
 }
 
-.dictionary {
+.dictionary, .search-results {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -39,7 +32,7 @@ h1 span {
   max-width: 90%;
 }
 
-.dictionary > .term {
+.dictionary > .term, .search-results > .term {
   text-align: center;
   width: 18rem;
   margin: 0;
@@ -48,17 +41,13 @@ h1 span {
   box-shadow: 0 2px 0 rgba(0, 0, 0, 0.05), 0 5px 20px rgba(0, 0, 0, 0.1);
   background-color: #fff;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
-  -webkit-transition: transform 0.3s ease, box-shadow 0.3s ease;
-  -moz-transition: transform 0.3s ease, box-shadow 0.3s ease;
-  -ms-transition: transform 0.3s ease, box-shadow 0.3s ease;
-  -o-transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .dictionary > .term > dt {
   margin-bottom: 1rem;
 }
 
-.dictionary > .term:hover {
+.dictionary > .term:hover, .search-results > .term:hover {
   transform: translateY(-8px);
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
 }
@@ -119,7 +108,7 @@ dd dl .term {
 }
 
 .credit a:hover {
-  color: #E91E63; /* on hover different color */
+  color: #E91E63;
 }
 
 .search-container {
@@ -133,39 +122,16 @@ dd dl .term {
 .section-title {
   text-align: center;
   font-size: 1.5rem;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  color: #9B51E0; /* Electric Purple */
+  margin: 1rem auto;
+  color: #9B51E0;
 }
 
-/* Style for search results container - IMPROVED */
-.search-results {
-  width: 100%;
-  max-width: 1200px;
-  margin: 0 auto;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 2rem;
-}
-
-/* Search results items - NEW */
-.search-results > .term {
+.no-results {
   text-align: center;
-  width: 18rem;
-  flex: 0 0 auto;
-  margin: 0;
-  padding: 2rem;
-  border-radius: 3px;
-  box-shadow: 0 2px 0 rgba(0, 0, 0, 0.05), 0 5px 20px rgba(0, 0, 0, 0.1);
-  background-color: #fff;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-/* Inherit hover effects for search results - NEW */
-.search-results > .term:hover {
-  transform: translateY(-8px);
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  font-size: 1.2rem;
+  color: #9B51E0;
+  margin: 2rem 0;
+  width: 100%;
 }
 
 .search-bar {
@@ -180,13 +146,14 @@ dd dl .term {
   transition: all 0.3s ease-in-out;
 }
 
-/* Styling for no results message */
-.no-results {
-  text-align: center;
-  font-size: 1.2rem;
-  color: #9B51E0;
-  margin: 2rem 0;
-  width: 100%;
+.search-bar:focus {
+  border-color: #00AEEF;
+  box-shadow: 0 0 10px rgba(155, 81, 224, 0.5);
+}
+
+.search-bar::placeholder {
+  color: #aaa;
+  font-style: italic;
 }
 
 /* Light & Dark Mode */
@@ -200,9 +167,8 @@ body[data-theme="dark"] {
   color: #fff;
 }
 
-/* Main title neon title update */
 body[data-theme="light"] h1.main-title {
-  color: #147a99 66d3ff;
+  color: #fff;
   text-shadow: 0 0 5px #1fb6e0, 0 0 10px #33c5f4, 0 0 15px #66d3ff;
 }
 
@@ -211,67 +177,32 @@ body[data-theme="dark"] h1.main-title {
   text-shadow: 0 0 10px #2ec2b0, 0 0 20px #2ec2b0, 0 0 40px #2ec2b0;
 }
 
-/* Emoji Cards */
-.term {
-  background: #fff;
-  color: #333;
-  padding: 2rem;
-  border-radius: 8px;
-  transition: 0.3s ease-in-out;
-}
-
 body[data-theme="dark"] .term {
   background: #2a2a2a;
   color: #fff;
   box-shadow: 0 4px 10px rgba(255, 255, 255, 0.1);
 }
 
-/* Dark mode for search results - NEW */
-body[data-theme="dark"] .search-results > .term {
-  background: #2a2a2a;
-  color: #fff;
-  box-shadow: 0 4px 10px rgba(255, 255, 255, 0.1);
-}
-
-/* Emoji Titles */
-dt {
-  color: #2ec2b0;
-}
-
 body[data-theme="dark"] dt {
   color: #9B51E0;
 }
 
-/* Search Bar */
-/* Light Mode Search Hover */
-.search-bar:focus {
-  border-color: #00AEEF; /* Sky Blue on focus */
-  box-shadow: 0 0 10px rgba(155, 81, 224, 0.5);
-}
-
-.search-bar::placeholder {
-  color: #aaa;
-  font-style: italic;
-}
-
-/* Dark Mode Search Hover */
 body[data-theme="dark"] .search-bar:focus {
-  border-color: #FFD700	; /* Golden	is chosen for dark-mode search bar	 */
+  border-color: #FFD700;
 }
 
-/* Animation Keyframes */
 @keyframes fadeIn {
-  0% {
+  from {
     opacity: 0;
     transform: translateY(10px);
   }
-  100% {
+  to {
     opacity: 1;
     transform: translateY(0);
   }
 }
 
-/* 📌 Responsive Design */
+/* Responsive Design */
 @media (max-width: 1024px) {
   .dictionary, .search-results {
     gap: 1.5rem;
